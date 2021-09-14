@@ -8,7 +8,7 @@
 
         설정버튼을 클릭하여 item을 추가 또는 삭제 가능
 
-![](../../../.gitbook/assets/image%20%28283%29.png)
+![](../../../img/assets/image%20%28283%29.png)
 
 ## ● Procedure In Parameters
 
@@ -20,17 +20,16 @@
 
         Procedure Out Parameter
 
-![](../../../.gitbook/assets/image%20%28279%29.png)
+![](../../../img/assets/image%20%28279%29.png)
 
 ## ● Procedure InOut Parameters
 
         Procedure InOut Parameter
 
-![](../../../.gitbook/assets/image%20%28295%29.png)
+![](../../../img/assets/image%20%28295%29.png)
 
 ## ● datatype
 
         컬럼 datatype 설정
 
-![type : string, integer, boolean, null, cursor](../../../.gitbook/assets/image%20%28223%29.png)
-
+![type : string, integer, boolean, null, cursor](../../../img/assets/image%20%28223%29.png)
