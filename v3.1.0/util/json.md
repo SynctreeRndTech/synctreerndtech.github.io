@@ -8,18 +8,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28394%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/json/json_encode"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28394%29.png)
 
-![](../../img/assets/image%20%28436%29.png)
+  ![](../../img/assets/image%20%28436%29.png)
 
-![](../../img/assets/image%20%28388%29.png)
+  ![](../../img/assets/image%20%28388%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "jsonEncode": "{\"test1\":\"test1\",\"test2\":\"test2\"}"
+    "jsonEncode": "{\"val1\":\"val1\",\"val2\":\"val2\"}"
   }
 }
 ```
@@ -32,20 +42,31 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28386%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/json/json_decode"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28386%29.png)
 
-![](../../img/assets/image%20%28461%29.png)
+  ![](../../img/assets/image%20%28461%29.png)
 
-![](../../img/assets/image%20%28391%29.png)
+  ![](../../img/assets/image%20%28391%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
+    "jsonEncode": "{\"val1\":\"val1\",\"val2\":\"val2\"}",
     "jsonDecode": {
-      "test1": "test1",
-      "test2": "test2"
+      "val1": "val1",
+      "val2": "val2"
     }
   }
 }

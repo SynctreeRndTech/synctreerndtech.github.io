@@ -8,16 +8,26 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28431%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28431%29.png)
 
-![](../../img/assets/image%20%28458%29.png)
+  ![](../../img/assets/image%20%28458%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "hexEncode": "8be175b3559ef4c511f4b4d64db789f81918e4b5786b17d572733e01c69fc37c"
+    "hashResult": "6fb0522f54422c3b6bc31ca7e9c1d469f19e2a50d50c9e30a1eee2fd397f5761"
   }
 }
 ```
@@ -30,16 +40,26 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28448%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash_hmac"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28448%29.png)
 
-![](../../img/assets/image%20%28456%29.png)
+  ![](../../img/assets/image%20%28456%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "hexEncode": "e148657aa655083c6a1833863dd422d0e3e168a0dba4f5859b4d75fa991ee8e1"
+    "hmacResult": "53626b23aacbc1891e56d5b83cd6977b0881679c3b0295c50aeca339c0d104cc"
   }
 }
 ```

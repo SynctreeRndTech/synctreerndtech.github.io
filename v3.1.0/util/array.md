@@ -8,18 +8,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28373%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_contains_key"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28373%29.png)
 
-![](../../img/assets/image%20%28368%29.png)
+  ![](../../img/assets/image%20%28368%29.png)
 
-![](../../img/assets/image%20%28377%29.png)
+  ![](../../img/assets/image%20%28377%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "arraycontainskey": true
+    "arrayContainsKey": true
   }
 }
 ```
@@ -32,18 +42,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28366%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_count"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28366%29.png)
 
-![](../../img/assets/image%20%28321%29.png)
+  ![](../../img/assets/image%20%28321%29.png)
 
-![](../../img/assets/image%20%28370%29.png)
+  ![](../../img/assets/image%20%28370%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "array-count": 3
+    "array-count": 4
   }
 }
 ```
@@ -56,18 +76,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28346%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_equals"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28346%29.png)
 
-![](../../img/assets/image%20%28362%29.png)
+  ![](../../img/assets/image%20%28362%29.png)
 
-![](../../img/assets/image%20%28329%29.png)
+  ![](../../img/assets/image%20%28329%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "array-count": 3
+    "arrayResult": true
   }
 }
 ```

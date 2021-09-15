@@ -13,7 +13,7 @@
 ## ● \***\*Add HashMap **예문\*\*
 
 <iframe
-    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hashmap/get_hashmap"
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hashmap/add_hashmap"
     name="프레임 이름"
     width="100%"
     height="800px"
@@ -34,10 +34,17 @@
 ```text
 {
   "result": {
-    "key01": "value01",
-    "key02": "value02",
-    "key03": "value03",
-    "key04": "value04"
+    "mainKey": {
+      "main": {
+        "originKey": "originVal",
+        "indepthKey": "indepthVal"
+      }
+    },
+    "subKey": {
+      "sub": {
+        "getKey": "getVal"
+      }
+    }
   }
 }
 ```

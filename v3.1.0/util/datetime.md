@@ -8,16 +8,26 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28349%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28349%29.png)
 
-![](../../img/assets/image%20%28331%29.png)
+  ![](../../img/assets/image%20%28331%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "datetime": "2021-02-02 13:00:36"
+    "datetime": "2021-09-14 15:39:11:505087"
   }
 }
 ```
@@ -30,16 +40,26 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28355%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_timestamp"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28355%29.png)
 
-![](../../img/assets/image%20%28332%29.png)
+  ![](../../img/assets/image%20%28332%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "DateTimeTimeStamp": 1612238141
+    "DateTimeTimeStamp": 1631602316
   }
 }
 ```
@@ -56,18 +76,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28348%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_add"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28348%29.png)
 
-![](../../img/assets/image%20%28361%29.png)
+  ![](../../img/assets/image%20%28361%29.png)
 
-![](../../img/assets/image%20%28358%29.png)
+  ![](../../img/assets/image%20%28358%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "DateTimeAdd": "2024-02-02"
+    "DateTimeAdd": "2024-09-14"
   }
 }
 ```
@@ -84,18 +114,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28359%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_subtract"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28359%29.png)
 
-![](../../img/assets/image%20%28345%29.png)
+  ![](../../img/assets/image%20%28345%29.png)
 
-![](../../img/assets/image%20%28326%29.png)
+  ![](../../img/assets/image%20%28326%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "DateTimeSub": "2018-02-02"
+    "DateTimeSub": "2018-09-14"
   }
 }
 ```
@@ -108,16 +148,26 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28325%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_format"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28325%29.png)
 
-![](../../img/assets/image%20%28360%29.png)
+  ![](../../img/assets/image%20%28360%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "datetimeFormat": "2021-02-02"
+    "datetimeFormat": "2021-09-14 16:15:02:155035"
   }
 }
 ```
@@ -130,18 +180,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28341%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_diff"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28341%29.png)
 
-![](../../img/assets/image%20%28365%29.png)
+  ![](../../img/assets/image%20%28365%29.png)
 
-![](../../img/assets/image%20%28351%29.png)
+  ![](../../img/assets/image%20%28351%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "dateTimeDiff": "-1 days"
+    "datetimeDiff": "-13 days 10 Hours 2 Minute 18 Seconds"
   }
 }
 ```
@@ -154,18 +214,28 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28374%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_format_diff"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28374%29.png)
 
-![](../../img/assets/image%20%28354%29.png)
+  ![](../../img/assets/image%20%28354%29.png)
 
-![](../../img/assets/image%20%28350%29.png)
+  ![](../../img/assets/image%20%28350%29.png)
+</iframe>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "dateTimeDiffForamt": "-1 days"
+    "datetimeDiffFormat": "+13 days 10 Hours 2 Minute 18 Seconds"
   }
 }
 ```
@@ -178,9 +248,19 @@
 
 ### ● 예문
 
-![](../../img/assets/image%20%28344%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_offset"
+    name="프레임 이름"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin">
+  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
+  ![](../../img/assets/image%20%28344%29.png)
 
-![](../../img/assets/image%20%28322%29.png)
+  ![](../../img/assets/image%20%28322%29.png)
+</iframe>
 
 ### ● 결과
 
@@ -189,5 +269,5 @@
   "result": {
     "DateTimeOffset": 32400
   }
-}\
+}
 ```

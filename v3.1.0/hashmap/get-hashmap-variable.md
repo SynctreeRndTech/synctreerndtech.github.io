@@ -33,14 +33,13 @@
 
 ```text
 {
-  "result1": {
-    "firstItem": {
+  "result": {
+    "getAll": {
       "key01": "value01",
       "key02": "value02",
       "key03": "value03"
     },
-    "secondItem": "value04"
-  },
-  "result2": "value04"
+    "getKey": "value02"
+  }
 }
 ```
