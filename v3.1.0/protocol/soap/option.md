@@ -1,20 +1,17 @@
-# Option
+## Option
 
-## ● ssl
+### ● ssl
 
-        ssl 인증서 \(cert/password\)
-        참고 : [https://www.php.net/manual/en/soapclient.construct.php](
+        SSL 인증서 (cert/password)
 
-https://www.php.net/manual/en/soapclient.construct.php)
+참고 : https://www.php.net/manual/en/soapclient.construct.php
 
 ![](../../../img/assets/image%20%28207%29.png)
 
-## ● timeout
+### ● timeout
 
-        timeout 지정 \( ret.PHP SoapClient / option. connection\_timeout 참조\)
+        Timeout 지정 (Ref.PHP SoapClient > connection_timeout option 참조)
 
-        참고 : [https://www.php.net/manual/en/soapclient.construct.php](
+참고 : https://www.php.net/manual/en/soapclient.construct.php
 
-https://www.php.net/manual/en/soapclient.construct.php)
-../img
-![](../../../.gitbook/assets/image%20%28164%29.png)
+![](../../../img/assets/image%20%28164%29.png)

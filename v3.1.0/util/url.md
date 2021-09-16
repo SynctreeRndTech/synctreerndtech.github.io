@@ -1,12 +1,12 @@
-# Url
+## Url
 
-## ● Url Encode
+### ● Url Encode
 
-       문자열을 encoding 하여 반환할 때 사용
+       문자열을 인코딩하여 반환할 때 사용
 
 ![](../../img/assets/image%20%28175%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_encode"
@@ -19,7 +19,7 @@
     <p><img src="../../img/assets/image%20%28433%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -29,13 +29,13 @@
 }
 ```
 
-## ● Url Decode
+### ● Url Decode
 
-        encoding된 문자열을 원래 문자열로 원복할 때 사용
+        인코딩 된 문자열을 원래 문자열로 원복할 때 사용
 
 ![](../../img/assets/image%20%28117%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_decode"
@@ -47,7 +47,8 @@
     <p><img src="../../img/assets/image%20%28414%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28413%29.png" alt="" /></p>
 </div>
-### ● 결과
+
+#### ● 결과
 
 ```text
 {

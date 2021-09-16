@@ -1,12 +1,12 @@
-# Handle
+## Handle
 
-## ● IsArray
+### ● IsArray
 
        데이터 타입이 Array인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28102%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isArray"
@@ -20,7 +20,8 @@
     <p><img src="../../img/assets/image%20%28445%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28438%29.png" alt="" /></p>
 </div>
-### ● 결과
+
+#### ● 결과
 
 ```text
 {
@@ -35,13 +36,13 @@
 }
 ```
 
-## ● IsBoolean
+### ● IsBoolean
 
       데이터 타입이 Boolean인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%2871%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isBoolean"
@@ -56,7 +57,7 @@
     <p><img src="../../img/assets/image%20%28437%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -71,13 +72,13 @@
 }
 ```
 
-## ● IsFloat
+### ● IsFloat
 
        데이터 타입이 Float인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28112%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isFloat"
@@ -92,7 +93,7 @@
     <p><img src="../../img/assets/image%20%28396%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -107,13 +108,13 @@
 }
 ```
 
-## ● IsInteger
+### ● IsInteger
 
        데이터 타입이 Integer인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28199%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isInteger"
@@ -128,7 +129,7 @@
     <p><img src="../../img/assets/image%20%28430%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -143,13 +144,13 @@
 }
 ```
 
-## ● IsNull
+### ● IsNull
 
-       데이터 타입이 null인지 판단하여 Boolean 값을 리턴할 때 사용
+       데이터 타입이 Null인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28434%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isNull"
@@ -164,7 +165,7 @@
     <p><img src="../../img/assets/image%20%28407%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -179,13 +180,13 @@
 }
 ```
 
-## ● IsNumeric
+### ● IsNumeric
 
        데이터 타입이 Numeric인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28160%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isNumeric"
@@ -200,7 +201,7 @@
     <p><img src="../../img/assets/image%20%28404%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -215,13 +216,13 @@
 }
 ```
 
-## ● IsString
+### ● IsString
 
        데이터 타입이 String인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28172%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isString"
@@ -236,7 +237,7 @@
     <p><img src="../../img/assets/image%20%28400%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -251,13 +252,13 @@
 }
 ```
 
-## ● ToString
+### ● ToString
 
-       value 값을 문자열로 형 변환할 때 용
+       Value 값을 문자열로 형 변환할 때 사용
 
 ![](../../img/assets/image%20%28197%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toString"
@@ -266,7 +267,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -274,13 +275,13 @@
 }
 ```
 
-## ● ToInteger
+### ● ToInteger
 
-       value 값을 hexCode 변환에 사용
+       Value 값을 Integer로 변환할 때 사용
 
 ![](../../img/assets/image%20%2880%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toInteger"
@@ -290,7 +291,7 @@
     sandbox="allow-scripts allow-same-origin"/>
 </iframe>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -298,13 +299,13 @@
 }
 ```
 
-## ● ToFloat
+### ● ToFloat
 
-       value 값을 hexCode 변환에 사용
+       Value 값을 Float으로 변환할 때 사용
 
 ![](../../img/assets/image%20%2898%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toFloat"
@@ -314,7 +315,7 @@
     sandbox="allow-scripts allow-same-origin"/>
 </iframe>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {

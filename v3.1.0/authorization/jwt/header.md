@@ -1,6 +1,6 @@
-# Header
+## Header
 
-## ● Jwt Header
+### ● Jwt Header
 
         JSON Web Token 알고리즘 식별
 
@@ -10,7 +10,7 @@
 
 ![](../../../img/assets/image%20%28315%29.png)
 
-## ● algorithm type
+### ● algorithm type
 
         JSON Web Token 알고리즘 type
 

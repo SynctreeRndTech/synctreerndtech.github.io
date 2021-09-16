@@ -1,12 +1,12 @@
-# Convert
+## Convert
 
-## ● Hex Encode
+### ● Hex Encode
 
-       value 값을 hexCode 변환에 사용
+       Hex 인코딩 시 사용
 
 ![](../../img/assets/image%20%28122%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_encode"
@@ -20,7 +20,7 @@
     <p><img src="../../img/assets/image%20%28410%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -30,13 +30,13 @@
 }
 ```
 
-## ● Hex Decode
+### ● Hex Decode
 
-       hexCode를 value으로 변환에 사용
+       Hex 인코딩 된 데이터를 Decode 된 데이터로 변환할 때 사용
 
 ![](../../img/assets/image%20%28165%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_decode"
@@ -50,7 +50,7 @@
     <p><img src="../../img/assets/image%20%28427%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {

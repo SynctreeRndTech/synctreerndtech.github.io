@@ -1,4 +1,4 @@
-# Hello! SyncTree
+## Hello! SyncTree
 
 안녕하세요! SyncTree입니다.
 
@@ -6,7 +6,7 @@ SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습�
 
 이번 예제는 가장기초 단계이며 기본적으로 생성해야 하는 Apps, BizUnit 생성을 함께 연습해 보도록 하겠습니다.
 
-## **Apps 생성**
+### **Apps 생성**
 
 ● Make App 버튼을 클릭하여 App을 생성합니다.
 
@@ -20,7 +20,7 @@ SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습�
 
 ![](img/assets/image%20%2820%29.png)
 
-## **BizUnit 생성**
+### **BizUnit 생성**
 
 ● Tutorial App 생성 완료 했습니다.
 
@@ -38,7 +38,7 @@ SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습�
 
 ![](img/assets/image%20%2825%29.png)
 
-## Hello SyncTree 출력하기
+### Hello SyncTree 출력하기
 
 ● NBlock 코딩을 하기 위해 Dev를 클릭하면 BizUnit에 화살표가 표시 됩니다.
 

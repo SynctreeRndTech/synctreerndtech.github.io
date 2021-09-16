@@ -1,11 +1,11 @@
-# Table of contents
+## Table of contents
 
 -   [Hello! SyncTree](README.md)
 -   [SyncTree?](synctree-2.md)
 -   [How to use SyncTree](untitled.md)
 -   [SyncTree 도입사례](synctree-1.md)
 
-## SyncTree NBlock <a id="synctree"></a>
+### SyncTree NBlock <a id="synctree"></a>
 
 -   [v3.1.0](v3.1.0/primitive.md)
     -   [Primitive](v3.1.0/primitive.md)
@@ -79,6 +79,6 @@
     -   [Exception](v3.1.0/exception/README.md)
         -   [Handler](v3.1.0/exception/handler.md)
 
-## Block Coding Guide
+### Block Coding Guide
 
 -   [DB\(DataBase\)](block-coding-guide/db-database.md)

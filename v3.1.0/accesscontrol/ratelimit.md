@@ -1,12 +1,12 @@
-# RateLimit
+## RateLimit
 
-## ● RateLimit
+### ● RateLimit
 
         요청 한도 제어
 
 ![](../../img/assets/image%20%28220%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/accesscontrol/access_control"
@@ -20,10 +20,10 @@
     <p><img src="../img/assets/image%20%28411%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
-{{
+{
   "errMsg": {
     "name": "LimitExceededException",
     "message": "Rate limit exceeded",

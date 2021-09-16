@@ -1,18 +1,18 @@
-# Oracle
+## Oracle
 
-## ● Create
+### ● Create
 
         스토리지를 사용하기 위한 변수 선언
 
 ![](../../../img/assets/image%20%28224%29.png)
 
-## ● Set to
+### ● Set to
 
         변수에 Oracle 스토리지를 할당
 
 ![](../../../img/assets/image%20%28284%29.png)
 
-## ● Oracle Query
+### ● Oracle Query
 
         Oracle Query 방식
 
@@ -22,7 +22,7 @@
 
 ![](../../../img/assets/image%20%28302%29.png)
 
-## ● Oracle Procedure
+### ● Oracle Procedure
 
         Oracle Procedure 방식
 
@@ -32,7 +32,7 @@
 
 ![](../../../img/assets/image%20%28246%29.png)
 
-## ● Oracle Connector
+### ● Oracle Connector
 
         Oracle 스토리지 자동선택
 

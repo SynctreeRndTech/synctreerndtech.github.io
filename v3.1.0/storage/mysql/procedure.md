@@ -1,6 +1,6 @@
-# Procedure
+## Procedure
 
-## ● Procedure Parameters
+### ● Procedure Parameters
 
         Procedure Parameter
 
@@ -10,25 +10,25 @@
 
 ![](../../../img/assets/image%20%28283%29.png)
 
-## ● Procedure In Parameters
+### ● Procedure In Parameters
 
         Procedure In Parameter
 
 ![](../../../img/assets/image%20%28232%29.png)
 
-## ● Procedure Out Parameters
+### ● Procedure Out Parameters
 
         Procedure Out Parameter
 
 ![](../../../img/assets/image%20%28279%29.png)
 
-## ● Procedure InOut Parameters
+### ● Procedure InOut Parameters
 
         Procedure InOut Parameter
 
 ![](../../../img/assets/image%20%28295%29.png)
 
-## ● datatype
+### ● datatype
 
         컬럼 datatype 설정
 

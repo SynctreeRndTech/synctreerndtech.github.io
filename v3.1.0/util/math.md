@@ -1,12 +1,12 @@
-# Math
+## Math
 
-## ● Math \(+\)
+### ● Math \(+\)
 
-       산술연산자 \(+, -, \*, /, %\)
+       산술연산자 (+, -, *, /, %)
 
 ![](../../img/assets/image%20%28104%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/math_1"
@@ -19,7 +19,8 @@
     <p><img src="../../img/assets/image%20%28339%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28327%29.png" alt="" /></p>
 </div>
-### ● 결과
+
+#### ● 결과
 
 ```text
 {
@@ -33,13 +34,13 @@
 }
 ```
 
-## ● Math \(++\)
+### ● Math \(++\)
 
-       증감연산자 \(++, --\)
+       증감연산자 (++, --)
 
 ![](../../img/assets/image%20%28115%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/math_2"
@@ -52,7 +53,7 @@
     <p><img src="../../img/assets/image%20%28330%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {

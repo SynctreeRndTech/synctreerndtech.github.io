@@ -1,31 +1,31 @@
-# Primitive
+## Primitive
 
-## ● **string**
+### ● **string**
 
         문자형 데이터
 
 ![](../img/assets/image%20%2894%29.png)
 
-## ● **integer**
+### ● **integer**
 
         정수형 데이터
 
 ![](../img/assets/image%20%28206%29.png)
 
-## ● **float**
+### ● **float**
 
         실수형 데이터
 
 ![](../img/assets/image%20%2856%29.png)
 
-## ● **boolean**
+### ● **boolean**
 
-        boolena 논리값
+        Boolean 논리값
 
 ![](../img/assets/image%20%28145%29.png)
 
-## ● null
+### ● null
 
-        null 값
+        Null 값
 
 ![](../img/assets/image%20%28130%29.png)

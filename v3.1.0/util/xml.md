@@ -1,12 +1,12 @@
-# Xml
+## Xml
 
-## ● Xml Encode
+### ● Xml Encode
 
        입력된 데이터를 XML 형태로 변환할 때 사용
 
 ![](../../img/assets/image%20%28204%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/xml/xml_encode"
@@ -20,7 +20,7 @@
     <p><img src="../../img/assets/image%20%28390%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -30,13 +30,13 @@
 }
 ```
 
-## ● Xml Decode
+### ● Xml Decode
 
-        XML형태의 데이터를 decode된 데이터로 변환할 때 사용
+        XML 형태의 데이터를 Decode된 데이터로 변환할 때 사용
 
 ![](../../img/assets/image%20%28101%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/xml/xml_decode"
@@ -50,7 +50,7 @@
     <p><img src="../../img/assets/image%20%28451%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {

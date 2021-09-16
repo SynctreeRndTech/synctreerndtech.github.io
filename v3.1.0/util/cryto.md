@@ -2,7 +2,7 @@
 
 ## ● Encrypt
 
-       문자열을 encoding 하여 반환할 때 사용
+       문자열을 인코딩하여 반환할 때 사용
 
 ![](../../img/assets/image%20%2896%29.png)
 
@@ -32,7 +32,7 @@
 
 ## ● Decrypt
 
-       문자열을 encoding 하여 반환할 때 사용
+       문자열을 인코딩하여 반환할 때 사용
 
 ![](../../img/assets/image%20%28154%29.png)
 

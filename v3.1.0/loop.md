@@ -1,13 +1,13 @@
-# Loop
+## Loop
 
-## ● Foreach
+### ● Foreach
 
-       반복문 / foreach 문
-       배열의 원소나, 객체의 프로퍼티 수 만큼 반복하는 동작에 사용
+       반복문 / Foreach 문
+       배열의 원소나 객체의 프로퍼티 수만큼 반복하는 동작에 사용
 
 ![](../img/assets/image%20%2886%29.png)
 
-## ● \***\*Loop **예제\*\*
+### ● \***\*Loop **예제\*\*
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/loop/loop"
@@ -22,7 +22,7 @@
     <p><img src="../img/assets/image%20%28379%29.png" alt="" /></p>
 </div>
 
-## ● \***\*Loop **결과\*\*
+### ● \***\*Loop **결과\*\*
 
 ```text
 {
@@ -32,14 +32,14 @@
 }
 ```
 
-## ● break
+### ● break
 
        반복문 제어 / 제어흐름을 벗어날 때 사용
 
 ![](../img/assets/image%20%28150%29.png)
 
-## ● continue
+### ● continue
 
-       반복문 제어 / 제어흐름을 유지하 현재 부분을 건너뛰고 다음 구문을 진행 시 사용
+       반복문 제어 / 제어흐름을 유지고 현재 부분을 건너뛰고 다음 구문을 진행 시 사용
 
 ![](../img/assets/image%20%2857%29.png)

@@ -1,12 +1,12 @@
-# Hash
+## Hash
 
-## ● Hash
+### ● Hash
 
        입력된 데이터를 XML 형태로 변환할 때 사용
 
 ![](../../img/assets/image%20%2854%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash"
@@ -19,7 +19,7 @@
     <p><img src="../../img/assets/image%20%28458%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -29,13 +29,13 @@
 }
 ```
 
-## ● Hash HMAC
+### ● Hash HMAC
 
-        HMAC 값을 생성후 입력한 알고리즘으로 해쉬 값을 출력할 때 사용
+        HMAC 값 생성 후 입력한 알고리즘으로 해쉬값을 출력할 때 사용
 
 ![](../../img/assets/image%20%2870%29.png)
 
-### ● 예문
+#### ● 예문
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash_hmac"
@@ -48,7 +48,7 @@
     <p><img src="../../img/assets/image%20%28456%29.png" alt="" /></p>
 </div>
 
-### ● 결과
+#### ● 결과
 
 ```text
 {
@@ -58,7 +58,7 @@
 }
 ```
 
-## ● 사용가능 알고리즘
+### ● 사용가능 알고리즘
 
 |               |                |                 |                |                |
 | :------------ | :------------- | :-------------- | :------------- | :------------- |
