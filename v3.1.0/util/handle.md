@@ -14,18 +14,13 @@
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28384%29.png)
-
-  ![](../../img/assets/image%20%28412%29.png)
-
-  ![](../../img/assets/image%20%28445%29.png)
-
-  ![](../../img/assets/image%20%28438%29.png)
-</iframe>
-
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28384%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28412%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28445%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28438%29.png" alt="" /></p>
+</div>
 ### ● 결과
 
 ```text
@@ -60,11 +55,12 @@
   iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
   ![](../../img/assets/image%20%28409%29.png)
 
-  ![](../../img/assets/image%20%28444%29.png)
+![](../../img/assets/image%20%28444%29.png)
 
-  ![](../../img/assets/image%20%28446%29.png)
+![](../../img/assets/image%20%28446%29.png)
 
-  ![](../../img/assets/image%20%28437%29.png)
+![](../../img/assets/image%20%28437%29.png)
+
 </iframe>
 
 ### ● 결과
@@ -101,11 +97,12 @@
   iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
   ![](../../img/assets/image%20%28387%29.png)
 
-  ![](../../img/assets/image%20%28385%29.png)
+![](../../img/assets/image%20%28385%29.png)
 
-  ![](../../img/assets/image%20%28415%29.png)
+![](../../img/assets/image%20%28415%29.png)
 
-  ![](../../img/assets/image%20%28396%29.png)
+![](../../img/assets/image%20%28396%29.png)
+
 </iframe>
 
 ### ● 결과
@@ -142,11 +139,12 @@
   iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
   ![](../../img/assets/image%20%28455%29.png)
 
-  ![](../../img/assets/image%20%28457%29.png)
+![](../../img/assets/image%20%28457%29.png)
 
-  ![](../../img/assets/image%20%28392%29.png)
+![](../../img/assets/image%20%28392%29.png)
 
-  ![](../../img/assets/image%20%28430%29.png)
+![](../../img/assets/image%20%28430%29.png)
+
 </iframe>
 
 ### ● 결과
@@ -183,11 +181,12 @@
   iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
   ![](../../img/assets/image%20%28421%29.png)
 
-  ![](../../img/assets/image%20%28453%29.png)
+![](../../img/assets/image%20%28453%29.png)
 
-  ![](../../img/assets/image%20%28442%29.png)
+![](../../img/assets/image%20%28442%29.png)
 
-  ![](../../img/assets/image%20%28407%29.png)
+![](../../img/assets/image%20%28407%29.png)
+
 </iframe>
 
 ### ● 결과
@@ -224,11 +223,12 @@
   iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
   ![](../../img/assets/image%20%28423%29.png)
 
-  ![](../../img/assets/image%20%28399%29.png)
+![](../../img/assets/image%20%28399%29.png)
 
-  ![](../../img/assets/image%20%28380%29.png)
+![](../../img/assets/image%20%28380%29.png)
 
-  ![](../../img/assets/image%20%28404%29.png)
+![](../../img/assets/image%20%28404%29.png)
+
 </iframe>
 
 ### ● 결과
@@ -265,11 +265,12 @@
   iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
   ![](../../img/assets/image%20%28398%29.png)
 
-  ![](../../img/assets/image%20%28419%29.png)
+![](../../img/assets/image%20%28419%29.png)
 
-  ![](../../img/assets/image%20%28441%29.png)
+![](../../img/assets/image%20%28441%29.png)
 
-  ![](../../img/assets/image%20%28400%29.png)
+![](../../img/assets/image%20%28400%29.png)
+
 </iframe>
 
 ### ● 결과
