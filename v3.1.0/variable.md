@@ -37,10 +37,9 @@ Transfer에 대한 ID 값을 가져와서 header와 body의 값을 컨트롤할 
   iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공
   ![](../img/assets/image%20%28176%29.png)
 
-![](../img/assets/image%20%2866%29.png)
+  ![](../img/assets/image%20%2866%29.png)
 
-![](../img/assets/image%20%2882%29.png)
-
+  ![](../img/assets/image%20%2882%29.png)
 </iframe>
 
 ## ● \***\*Variable **결과\*\*

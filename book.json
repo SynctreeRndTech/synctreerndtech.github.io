@@ -1,4 +1,6 @@
 {
+    "title": "Welcome to SyncTree!",
+    "discription": "안녕하세요! SyncTree 가이드북입니다.",
     "plugins": [
         "diy",
         "collapsible-menu",
@@ -12,5 +14,9 @@
             "style": "background: none; max-height: 32px; min-height: 32px"
         },
         "favicon": "/logo/favicon_sth_16.png"
+    },
+    "variables": {
+        "iframe" : "show",
+        "not-iframe" : "noShow"
     }
 }

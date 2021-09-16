@@ -4,7 +4,7 @@
 
         Procedure Parameter
 
-![](https://gblobscdn.gitbook.com/assets%2F-Mbu2DYo1jNucxn3cJIz%2F-MdoLQ1VxvPHQ3CUqbr5%2F-MdoSxjVxbQ3VxIF8fnE%2Fimage.png?alt=media&token=2630a046-88e0-40a3-a0af-259bc55b8f73)
+![](../../../img/assets/image%20%28234%29.png)
 
         설정버튼을 클릭하여 item을 추가 또는 삭제 가능
 
@@ -14,7 +14,7 @@
 
         Procedure In Parameter
 
-![](https://gblobscdn.gitbook.com/assets%2F-Mbu2DYo1jNucxn3cJIz%2F-MdoLQ1VxvPHQ3CUqbr5%2F-MdoT1C2wGixDsztugi7%2Fimage.png?alt=media&token=71be4084-f7c2-4988-b6d1-8dcb3b027c14)
+![](../../../img/assets/image%20%28232%29.png)
 
 ## ● Procedure Out Parameters
 
