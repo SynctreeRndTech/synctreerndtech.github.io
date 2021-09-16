@@ -15,8 +15,12 @@
         },
         "favicon": "/logo/favicon_sth_16.png"
     },
+    "styles": {
+        "website": "/styles/website.css",
+        "pdf": "/styles/pdf.css"
+    },
     "variables": {
-        "iframe" : "show",
-        "not-iframe" : "noShow"
+        "iframe": "show",
+        "not-iframe": "noShow"
     }
 }
