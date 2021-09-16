@@ -10,7 +10,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_encode"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
@@ -41,20 +40,15 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_decode"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28393%29.png)
-
-![](../../img/assets/image%20%28422%29.png)
-
-![](../../img/assets/image%20%28427%29.png)
-
-</iframe>
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28393%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28422%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28427%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 

@@ -28,7 +28,6 @@ Transfer에 대한 ID 값을 가져와서 header와 body의 값을 컨트롤할 
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/variable/variable_example"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""

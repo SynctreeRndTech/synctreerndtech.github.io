@@ -10,7 +10,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
@@ -40,7 +39,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash_hmac"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""

@@ -14,7 +14,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hashmap/hashmap_example"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""

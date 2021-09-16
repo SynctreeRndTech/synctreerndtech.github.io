@@ -22,7 +22,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/helper/helper_comments"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
@@ -52,7 +51,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/helper/helper_injection_origin"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
@@ -99,7 +97,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/helper/helper_dictionary"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""

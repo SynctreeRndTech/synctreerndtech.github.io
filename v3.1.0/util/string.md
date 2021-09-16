@@ -14,7 +14,6 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_concat"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
@@ -45,18 +44,14 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_index"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28357%29.png)
-
-![](../../img/assets/image%20%28369%29.png)
-
-</iframe>
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28357%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28369%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
@@ -94,18 +89,14 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_length"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28347%29.png)
-
-![](../../img/assets/image%20%28371%29.png)
-
-</iframe>
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28347%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28371%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
@@ -127,18 +118,14 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_toarray"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28367%29.png)
-
-![](../../img/assets/image%20%28375%29.png)
-
-</iframe>
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28367%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28375%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
@@ -180,20 +167,15 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_substring"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28342%29.png)
-
-![](../../img/assets/image%20%28328%29.png)
-
-![](../../img/assets/image%20%28337%29.png)
-
-</iframe>
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28342%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28328%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28337%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
@@ -215,18 +197,15 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_replace"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28395%29.png)
-
-![](../../img/assets/image%20%28428%29.png)
-
-![](../../img/assets/image%20%28406%29.png)
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28395%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28428%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28406%29.png" alt="" /></p>
+</div>
 
 </iframe>
 
@@ -257,16 +236,14 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_split"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28352%29.png)
-
-![](../../img/assets/image%20%28378%29.png)
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28352%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28378%29.png" alt="" /></p>
+</div>
 
 </iframe>
 
@@ -299,18 +276,14 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_ltrim"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28323%29.png)
-
-![](../../img/assets/image%20%28324%29.png)
-
-</iframe>
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28323%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28324%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
@@ -332,18 +305,14 @@
 
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_rtrim"
-    name="프레임 이름"
     width="100%"
     height="800px"
     allow=""
-    style="border:0 none"
-    sandbox="allow-scripts allow-same-origin">
-  iframe를 지원하지 않는 브라우저인 경우 대체정보를 제공 
-  ![](../../img/assets/image%20%28372%29.png)
-
-![](../../img/assets/image%20%28334%29.png)
-
-</iframe>
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28372%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28334%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
