@@ -1,3 +1,16 @@
+.book-logo > img {
+    visibility: hidden;
+}
+.book-logo {
+    background: url(/logo/LOGO_Synctree_GNB_M_light.svg) no-repeat center center;
+    background-size: 133px 32px;
+}
+
+.color-theme-1 .book-logo,
+.color-theme-2 .book-logo {
+    background-image: url(/logo/LOGO_Synctree_GNB_M.svg);
+}
+
 iframe {
     border: 0 none;
 }
