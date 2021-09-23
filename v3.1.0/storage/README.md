@@ -1,6 +1,7 @@
 ## Storage
 
 ### Click the button below to go to each section:
+
 <div class="box bg-1">
     <button class="button button--winona button--border-thin button--round-s" onclick="location.href='mysql'" data-text="MySQL">
     <span> MySQL </span>
@@ -17,4 +18,9 @@
     <button class="button button--winona button--border-thin button--round-s" onclick="location.href='redis.html'" data-text="Redis">
     <span> MySQL </span>
     </button>
+</div>
+
+<div class='btn-wrap'>
+    <a href='mysql/README.md'>MySQL</a>
+    <a href='mysql/README.md'>MySQL</a>
 </div>
