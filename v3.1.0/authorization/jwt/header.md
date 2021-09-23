@@ -10,8 +10,8 @@
 
 ![](../../../img/assets/image%20%28315%29.png)
 
-### ● algorithm type
+### ● Algorithm Type
 
-        JSON Web Token 알고리즘 type
+        JSON Web Token 알고리즘 타입 [HS256, HS384, HS512, RS256, RS384, RS512]
 
-![type : HS256, HS384, HS512, RS256, RS384, RS512](../../../img/assets/image%20%28278%29.png)
+![](../../../img/assets/image%20%28278%29.png)
