@@ -17,3 +17,41 @@ iframe {
 .display-pdf {
     display: none;
 }
+
+.btn-wrap {
+    width: 100%;
+    margin: 24px 0px;
+    display: grid;
+    padding: 0px;
+    gap: 24px 15px;
+    justify-content: center;
+    -webkit-box-pack: center;
+    grid-template-rows: auto;
+    grid-template-columns: calc(50% - 8px) calc(50% - 8px);
+}
+.btn-wrap > a {
+    color: rgb(36, 42, 49) !important;
+    border: 1px solid rgb(230, 236, 241);
+    margin: 0px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    place-self: stretch;
+    box-shadow: rgb(116 129 141 / 10%) 0px 3px 8px 0px;
+    align-items: center;
+    border-radius: 3px;
+    flex-direction: row;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-align: center;
+    break-inside: avoid;
+    -webkit-box-orient: horizontal;
+    transition: border 250ms ease 0s;
+    -webkit-box-direction: normal;
+}
+
+.btn-wrap > a:hover {
+    color: rgb(247, 125, 5) !important;
+    border-color: rgb(247, 125, 5);
+    text-decoration: none;
+}

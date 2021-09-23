@@ -2,7 +2,6 @@
     "title": "Welcome to SyncTree!",
     "discription": "안녕하세요! SyncTree 가이드북입니다.",
     "plugins": [
-        "diy",
         "collapsible-menu",
         "toggle-chapters",
         "insert-logo",
