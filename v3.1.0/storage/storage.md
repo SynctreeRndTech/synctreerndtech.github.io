@@ -7,6 +7,5 @@
     <a href='oracle/oracle.md'>Oracle</a>
     <a href='dynamodb.html'>DynamoDB</a>
     <a href='redis.html'>Redis</a>
-    <a class='single-line' href='examples.md'>Deep Into Storage Block</a>
+    <a href='examples.md'>Deep Into Storage Block</a>
 </div>
-
