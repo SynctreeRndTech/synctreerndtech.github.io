@@ -77,4 +77,5 @@
 
 ### Block Coding Guide
 
--   [DB\(DataBase\)](block-coding-guide/db-database.md)
+-   [Storage(Dabatase)](block-coding-guide/db-database.md)
+-   [Storage(QueryManager)](block-coding-guide/query-manager.md)
