@@ -41,14 +41,47 @@
 }
 ```
 
-
 ### ● 로그 테이블 저장 예문
 
 <iframe
-    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/storage/storage_example1"
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/storage/storage_example2"
     width="100%"
     height="800px"
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
 </div>
+
+
+```text
+CREATE TABLE trans_hist ( 
+    api_tran_id varchar(20) NOT NULL, # 거래고유번호
+    tran_reg_date varchar(8) NOT NULL, # 등록일자
+    group_cd varchar(3) NOT NULL, # 그룹코드
+    tran_org_id varchar(3), # 거래기관코드
+    tran_type_cd varchar(5), # 거래종류코드
+    tran_ip_acct_nb varchar(20), # 입금계좌번호
+    tran_status varchar(2), # 상태구분코드
+    tran_reg_time varchar(6), # 등록시간
+    tran_mod_date varchar(8), # 수정일자
+    tran_mod_time varchar(6), # 수정시간
+    tran_result_cd varchar(10), # 거래결과코드- 보안키 불일치 시 ex.DEP12658(보안키 불일치)
+    tran_result_msg varchar(255), # 상세내용(ex. 보안키 불일치입니다)
+    PRIMARY KEY (api_tran_id, tran_reg_date, group_cd) # 거래고유번호 PK
+);
+```
+
+```text
+{
+  "result": {
+    "insertResult": 1,
+    "updateResult": 1
+  }
+}
+```
+<div div class='img-wrap'>
+  <a href="../../../img/assets/storage_example_2_result_select.png" target = "_blank"><img src="../../../img/assets/storage_example_2_result_select.png" /></a>
+</div>
+
+
+
