@@ -28,7 +28,9 @@ iframe {
     -webkit-box-pack: center;
     grid-template-rows: auto;
     grid-template-columns: calc(50% - 8px) calc(50% - 8px);
+    text-align: center; 
 }
+
 .btn-wrap > a {
     color: rgb(36, 42, 49) !important;
     border: 1px solid rgb(230, 236, 241);
@@ -48,10 +50,18 @@ iframe {
     -webkit-box-orient: horizontal;
     transition: border 250ms ease 0s;
     -webkit-box-direction: normal;
+    text-align: center; 
 }
 
 .btn-wrap > a:hover {
     color: rgb(247, 125, 5) !important;
     border-color: rgb(247, 125, 5);
     text-decoration: none;
+    text-align: center; 
 }
+.btn-wrap > .single-line {
+    grid-column: 1 / 3;
+    text-align: center; 
+}
+
+
