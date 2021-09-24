@@ -1,10 +1,10 @@
 ## Hello! SyncTree
 
-안녕하세요! SyncTree입니다.
+    안녕하세요! SyncTree입니다.
 
-SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습니다.
+    SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습니다.
 
-이번 예제는 가장기초 단계이며 기본적으로 생성해야 하는 Apps, BizUnit 생성을 함께 연습해 보도록 하겠습니다.
+    이번 예제는 가장 기본적인 Apps, BizUnit 생성을 함께 연습해보도록 하겠습니다.
 
 ### **Apps 생성**
 

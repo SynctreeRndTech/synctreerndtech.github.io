@@ -1,8 +1,7 @@
----
-description: Database 연동하는 법을 소개합니다.
----
-
 ## Storage(DB Storage)
+
+Database 연동하는 법을 소개합니다.
+
 
     Strorage > DB Storage > Create Storage Group
 

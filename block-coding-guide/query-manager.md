@@ -1,8 +1,6 @@
----
-description: Query를 등록하고 연동하는 법을 소개합니다.
----
-
 ## Query Manager
+
+Query를 등록하고 매핑하는 법을 소개합니다.
 
     Strorage > Query Manager > Create Query
 
