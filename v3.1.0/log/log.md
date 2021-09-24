@@ -4,7 +4,7 @@
 
         Info 레벨의 로그를 서버에 기록할 때 사용
 
-![](../img/assets/image%20%28243%29.png)
+![](,,/../img/assets/image%20%28243%29.png)
 
 #### ● 예문
 
@@ -15,8 +15,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../img/assets/image%20%28401%29.png" alt="" /></p>
-    <p><img src="../img/assets/image%20%28383%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28401%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28383%29.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -35,7 +35,7 @@
 
         Debug 레벨의 로그를 서버에 기록할 때 사용
 
-![](../img/assets/image%20%28306%29.png)
+![](,,/../img/assets/image%20%28306%29.png)
 
 #### ● 예문
 
@@ -46,8 +46,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../img/assets/image%20%28417%29.png" alt="" /></p>
-    <p><img src="../img/assets/image%20%28408%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28417%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28408%29.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -66,7 +66,7 @@
 
         Error 레벨의 로그를 서버에 기록할 때 사용
 
-![](../img/assets/image%20%28262%29.png)
+![](../../img/assets/image%20%28262%29.png)
 
 #### ● 예문
 
@@ -77,8 +77,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../img/assets/image%20%28403%29.png" alt="" /></p>
-    <p><img src="../img/assets/image%20%28429%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28403%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28429%29.png" alt="" /></p>
 </div>
 
 #### ● 결과

@@ -4,19 +4,19 @@
 
         특정 Block에 대한 주석을 기록할 때 사용
 
-![](../img/assets/image%20%28221%29.png)
+![](../../img/assets/image%20%28221%29.png)
 
 ### ● Comment statements
 
         특정 Block을 주석 처리 시 사용
 
-![](../img/assets/image%20%28230%29.png)
+![](../../img/assets/image%20%28230%29.png)
 
 ### ● Code Section
 
         코드를 섹션화할 때 사용 (코드를 정리하거나 n개의 코드블럭 한번에 복사하는 등 다양하게 활용 가능)
 
-![](../img/assets/image%20%28299%29.png)
+![](../../img/assets/image%20%28299%29.png)
 
 #### ● 예문
 
@@ -45,7 +45,7 @@
 
         Request의 Header/Body Parameter 값을 덮어쓸 때 사용
 
-![](../img/assets/image%20%28304%29.png)
+![](../../img/assets/image%20%28304%29.png)
 
 #### ● 예문
 
@@ -91,7 +91,7 @@
 
         Dictionary에 서비스 환경 별 값을 등록 후 BizUnit 로직에서 설정된 값을 호출
 
-![](../img/assets/image%20%28293%29.png)
+![](../../img/assets/image%20%28293%29.png)
 
 #### ● 예문
 

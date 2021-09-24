@@ -1,17 +1,41 @@
 ---
-description: SyncTree는 다양한 고객들과 함께하고 있습니다.
+description: "APIs ? Microservices ? Why So Serious? Just Drag, Drop, and Go Home."
 ---
 
-## SyncTree 도입사례
+## SyncTree?
 
-### 금융권 주요사례
+성공적인 디지털전환을 위한 노코드 올인원 API 솔루션
 
-금융권 오픈 API 운영 보안점검 가이드를 준수하고 있으며, 마이데이터, 핀테크 사업 등을 위한 새로운 혁신적인 표준 솔루션으로 빠르게 도입되고 있습니다.
+SyncTree는 API Full lifecycle 관리와 독립적인 마이크로서비스 구현 및 관리가 가능한 노코드 올인원 API 솔루션 입니다.
 
-![](img/assets/image%20%2846%29.png)
+[https://synctree101.com](https://synctree101.com/)
 
-### 비금융권 주요사례
+### API Management
 
-금융권에서 검증된 보안성 기반으로, 교통, 운송, 여행, IoT등 다양한 분야 적용 사례를 통해 제품의 우수성을 인정 받고 있습니다.
+SyncTree는 API를 설계, 구현, 보안, 관리, 모니터링, 게시하기 위한 올인원 솔루션입니다.
 
-![](img/assets/image%20%2845%29.png)
+API는 디지털전환의 핵심이고, API 관리없이는 디지털전환이 어렵습니다.
+
+SyncTree는 API Full lifecycle 관리 솔루션으로 기업의 디지털전환을 지원하고 서비스 채널 확장과 비즈니스 융합을 가속화하여 새로운 제품/서비스 및 수익을 창출할 수 있도록 도와드립니다.
+
+SyncTree는 복잡한 작업과 지속적인 관리 비용 없이 클라우드환경에서 API를 생성, 관리, 분석, 수익화 할 수 있도록 API Lifecycle 관리의 모든 기능을 제공합니다.
+
+![](img/assets/image%20%2837%29.png)
+
+[더보기 -&gt;](https://synctree101.com/apiManagement.html)
+
+### Serverless Microservices
+
+SyncTree는 마이크로서비스를 구현하고 관리하기 위한 노코드 올인원 솔루션입니다.
+
+디지털 시대에 성공을 위해선 마이크로서비스가 필수이고, 지속적인 디지털 전환을 지원하는 마이크로서비스 관리 솔루션이 필요합니다. SyncTree는 노코드 마이크로서비스 관리 솔루션으로 기업의 지속적인 디지털 전략을 지원하고 디지털전환을 가속화하여 새로운 비즈니스 전략과 신속한 비즈니스 변화를 도와드립니다. SyncTree는 서버 구축 및 운영이 필요 없는 서버리스 환경에서 별도의 개발 환경없이 마이크로서비스를 구현, 배포하고 관리할 수 있는 기능을 제공합니다.
+
+![](img/assets/image%20%2835%29.png)
+
+[더보기 -&gt;](https://synctree101.com/microService.html)
+
+### 기능
+
+![](img/assets/image%20%2833%29.png)
+
+[더보기 -&gt;](https://synctree101.com/features.html)
