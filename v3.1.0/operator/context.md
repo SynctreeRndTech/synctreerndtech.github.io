@@ -1,13 +1,13 @@
-# Context
+## Context
 
-## ● Response Context satus code null
+### ● Response Context: status code = null
 
-        http\(s\)의 Response \(응답\) 개체 호출\(Null\)
+        Response(응답) 객체 호출
 
 ![](../../img/assets/image%20%28126%29.png)
 
-## ● Response Context satus code integer
+### ● Response Context: status code = integer
 
-        http\(s\)의 Response\(응답\) 개체 호출\(정수\)
+        Response(응답) 객체 호출 (Status Code 지정)
 
 ![](../../img/assets/image%20%28177%29.png)

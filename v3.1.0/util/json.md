@@ -1,64 +1,77 @@
-# Json
+## Json
 
-## ● Json Encode
+### ● Json Encode
 
          입력된 데이터를 JSON 형태로 변환할 때 사용
 
 ![](../../img/assets/image%20%2869%29.png)
 
-### ● 예문
+#### ● 예문
 
-![](../../img/assets/image%20%28394%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/json/json_encode"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28394%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28436%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28388%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28436%29.png)
-
-![](../../img/assets/image%20%28388%29.png)
-
-### ● 결과
+#### ● 결과
 
 ```text
 {
   "result": {
-    "jsonEncode": "{\"test1\":\"test1\",\"test2\":\"test2\"}"
+    "jsonEncode": "{\"val1\":\"val1\",\"val2\":\"val2\"}"
   }
 }
 ```
 
-## ● Json Decode
+### ● Json Decode
 
-        JSON형태의 데이터를 decode된 데이터로 변환할 때 사용
+        JSON 형태의 데이터를 Decode된 데이터로 변환할 때 사용
 
 ![](../../img/assets/image%20%28182%29.png)
 
-### ● 예문
+#### ● 예문
 
-![](../../img/assets/image%20%28386%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/json/json_decode"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28386%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28461%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28391%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28461%29.png)
-
-![](../../img/assets/image%20%28391%29.png)
-
-### ● 결과
+#### ● 결과
 
 ```text
 {
   "result": {
+    "jsonEncode": "{\"val1\":\"val1\",\"val2\":\"val2\"}",
     "jsonDecode": {
-      "test1": "test1",
-      "test2": "test2"
+      "val1": "val1",
+      "val2": "val2"
     }
   }
 }
 ```
 
-## ● Encode Option
+### ● Encode Option
 
-        인코딩 옵션 \(PHP 기반\)
+        인코딩 옵션 (PHP 기반)
 
 ![type : UNESCAPED_UNICOE, UNESCAPED_SALSHES, FORCE_OBJECT, MUMERIC_CHECK, PRESERVE_ZERO_FRACTION](../../img/assets/image%20%28153%29.png)
 
-## ● Decode Option
+### ● Decode Option
 
-        디코딩 옵션 \(PHP 기반\)
+        디코딩 옵션 (PHP 기반)
 
 ![type : OBJECT_AS_ARRY, BIGINT_AS_STRING](../../img/assets/image%20%2864%29.png)

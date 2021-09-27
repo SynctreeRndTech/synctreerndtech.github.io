@@ -1,36 +1,42 @@
-# Add Array Variable
+## Add Array Variable
 
-## ● **Add Array Variable**
+### ● **Add Array Variable**
 
          배열형 변수에 배열 ****값을 추가할 때 사용
 
 ![](../../img/assets/image%20%28116%29.png)
 
-         설정버튼을 클릭하여 item을 추가 또는 삭제 가능
+         설정 버튼을 클릭하여 item을 추가 또는 삭제 가능
 
 ![](../../img/assets/image%20%28208%29.png)
 
-### ● 예문
+### ● \***\*Add Array Variable **예문\*\*
 
-![](../../img/assets/image%20%2897%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/arrayList/add_arraylist"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%2897%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28178%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28180%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28178%29.png)
-
-![](../../img/assets/image%20%28180%29.png)
-
-### ● 결과
+### ● \***\*Add Array Variable **결과\*\*
 
 ```text
 {
   "result": [
-    "vlaue01",
-    "vlaue02",
-    "vlaue03",
-    "vlaue07",
+    "value01",
+    "value02",
+    "value03",
+    "value04",
     [
-      "vlaue04",
-      "vlaue05",
-      "vlaue06"
+      "value04",
+      "value05",
+      "value06"
     ]
   ]
 }

@@ -1,50 +1,64 @@
-# Hash
+## Hash
 
-## ● Hash
+### ● Hash
 
        입력된 데이터를 XML 형태로 변환할 때 사용
 
 ![](../../img/assets/image%20%2854%29.png)
 
-### ● 예문
+#### ● 예문
 
-![](../../img/assets/image%20%28431%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28431%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28458%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28458%29.png)
-
-### ● 결과
+#### ● 결과
 
 ```text
 {
   "result": {
-    "hexEncode": "8be175b3559ef4c511f4b4d64db789f81918e4b5786b17d572733e01c69fc37c"
+    "hashResult": "6fb0522f54422c3b6bc31ca7e9c1d469f19e2a50d50c9e30a1eee2fd397f5761"
   }
 }
 ```
 
-## ● Hash HMAC
+### ● Hash HMAC
 
-        HMAC 값을 생성후 입력한 알고리즘으로 해쉬 값을 출력할 때 사용
+        HMAC 값 생성 후 입력한 알고리즘으로 해쉬값을 출력할 때 사용
 
 ![](../../img/assets/image%20%2870%29.png)
 
-### ● 예문
+#### ● 예문
 
-![](../../img/assets/image%20%28448%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash_hmac"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28448%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28456%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28456%29.png)
-
-### ● 결과
+#### ● 결과
 
 ```text
 {
   "result": {
-    "hexEncode": "e148657aa655083c6a1833863dd422d0e3e168a0dba4f5859b4d75fa991ee8e1"
+    "hmacResult": "53626b23aacbc1891e56d5b83cd6977b0881679c3b0295c50aeca339c0d104cc"
   }
 }
 ```
 
-## ● 사용가능 알고리즘
+### ● 사용가능 알고리즘
 
 |               |                |                 |                |                |
 | :------------ | :------------- | :-------------- | :------------- | :------------- |

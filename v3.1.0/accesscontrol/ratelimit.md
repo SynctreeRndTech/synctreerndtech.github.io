@@ -1,30 +1,36 @@
-# RateLimit
+## RateLimit
 
-## ● RateLimit
+### ● RateLimit
 
         요청 한도 제어
 
 ![](../../img/assets/image%20%28220%29.png)
 
-### ● 예문
+#### ● 예문
 
-![](../../img/assets/image%20%28416%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/accesscontrol/access_control"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../img/assets/image%20%28416%29.png" alt="" /></p>
+    <p><img src="../img/assets/image%20%28418%29.png" alt="" /></p>
+    <p><img src="../img/assets/image%20%28411%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28418%29.png)
-
-![](../../img/assets/image%20%28411%29.png)
-
-### ● 결과
+#### ● 결과
 
 ```text
 {
-  "ex": {
+  "errMsg": {
     "name": "LimitExceededException",
     "message": "Rate limit exceeded",
     "data": {
-      "limit": 20,
+      "limit": 2,
       "remaining": 0,
-      "reset": 3595
+      "reset": 4
     }
   }
 }

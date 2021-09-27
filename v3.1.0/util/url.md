@@ -1,45 +1,60 @@
-# Url
+## Url
 
-## ● Url Encode
+### ● Url Encode
 
-       문자열을 encoding 하여 반환할 때 사용
+       문자열을 인코딩하여 반환할 때 사용
 
 ![](../../img/assets/image%20%28175%29.png)
 
-### ● 예문
+#### ● 예문
 
-![](../../img/assets/image%20%28460%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_encode"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28460%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28433%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28433%29.png)
-
-### ● 결과
+#### ● 결과
 
 ```text
 {
   "result": {
-    "urlEncode": "https%3A%2F%2Ffinance.naver.com%2Fnews%2Fnews_read.nhn%3Fmode%3Dmainnews%26office_id%3D008%26article_id%3D0004445854"
+    "urlEncode": "https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fwhere%3Dnews%26sm%3Dtab_jum%26query%3D%25EC%2597%2594%25ED%2584%25B0%25ED%2594%258C"
   }
 }
 ```
 
-## ● Url Decode
+### ● Url Decode
 
-        encoding된 문자열을 원래 문자열로 원복할 때 사용
+        인코딩 된 문자열을 원래 문자열로 원복할 때 사용
 
 ![](../../img/assets/image%20%28117%29.png)
 
-### ● 예문
+#### ● 예문
 
-![](../../img/assets/image%20%28414%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_decode"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28414%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28413%29.png" alt="" /></p>
+</div>
 
-![](../../img/assets/image%20%28413%29.png)
-
-### ● 결과
+#### ● 결과
 
 ```text
 {
   "result": {
-    "urlDecode": "https://finance.naver.com/news/news_read.nhn?mode=mainnews&office_id=008&article_id=0004445854"
+    "urlEncode": "https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fwhere%3Dnews%26sm%3Dtab_jum%26query%3D%25EC%2597%2594%25ED%2584%25B0%25ED%2594%258C",
+    "urlDecode": "https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%97%94%ED%84%B0%ED%94%8C"
   }
 }
 ```

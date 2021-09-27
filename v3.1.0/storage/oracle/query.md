@@ -1,6 +1,6 @@
-# Query
+## Query
 
-## ● Query Parameters
+### ● Query Parameters
 
         Query Parameters
 
@@ -10,19 +10,19 @@
 
 ![](../../../img/assets/image%20%28296%29.png)
 
-## ● Query Bind Parameters
+### ● Query Bind Parameters
 
         Bind Parameter \(bind-name value\)
 
 ![](../../../img/assets/image%20%28222%29.png)
 
-## ● Transaction Commit
+### ● Transaction Commit
 
         트랜잭션 커밋문
 
 ![](../../../img/assets/image%20%28237%29.png)
 
-## ● Transaction Rollback
+### ● Transaction Rollback
 
         트렌잭션 롤백문
 

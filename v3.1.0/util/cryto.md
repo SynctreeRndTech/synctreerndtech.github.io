@@ -2,48 +2,62 @@
 
 ## ● Encrypt
 
-       문자열을 encoding 하여 반환할 때 사용
+       문자열을 인코딩하여 반환할 때 사용
 
 ![](../../img/assets/image%20%2896%29.png)
 
 ### ● 예문
 
-![](../../img/assets/image%20%28402%29.png)
-
-![](../../img/assets/image%20%28425%29.png)
-
-![](../../img/assets/image%20%28432%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/crypto/crypto_encrypt"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin" />
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28402%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28425%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28432%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "Encrypt": "TcwbYa3Qq+uHYAgxFrrcPQ=="
+    "encrypt": "D4P18LNdQHZSBQgcE8GLxA=="
   }
 }
 ```
 
 ## ● Decrypt
 
-       문자열을 encoding 하여 반환할 때 사용
+       문자열을 인코딩하여 반환할 때 사용
 
 ![](../../img/assets/image%20%28154%29.png)
 
 ### ● 예문
 
-![](../../img/assets/image%20%28389%29.png)
-
-![](../../img/assets/image%20%28420%29.png)
-
-![](../../img/assets/image%20%28443%29.png)
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/crypto/crypto_decrypt"
+    width="100%"
+    height="800px"
+    allow=""
+    style="border:0 none"
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/image%20%28389%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28420%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28443%29.png" alt="" /></p>
+</div>
 
 ### ● 결과
 
 ```text
 {
   "result": {
-    "Decrypt": "synctree"
+    "encrypt": "D4P18LNdQHZSBQgcE8GLxA==",
+    "decrypt": "Hello Synctree!"
   }
 }
 ```
