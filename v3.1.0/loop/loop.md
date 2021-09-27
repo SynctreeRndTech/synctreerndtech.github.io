@@ -8,7 +8,7 @@
 ![](../../img/assets/image%20%2886%29.png)
 
 ### ● \***\*Loop **예제\*\*
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/loop/loop"
     width="100%"

@@ -6,7 +6,7 @@
 
 ![](../../img/assets/image%20%28260%29.png)
 
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/simpleKey_verify"
     width="100%"

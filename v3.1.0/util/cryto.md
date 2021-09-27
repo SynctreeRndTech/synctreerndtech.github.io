@@ -7,7 +7,7 @@
 ![](../../img/assets/image%20%2896%29.png)
 
 ### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/crypto/crypto_encrypt"
     width="100%"
@@ -37,7 +37,7 @@
 ![](../../img/assets/image%20%28154%29.png)
 
 ### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/crypto/crypto_decrypt"
     width="100%"

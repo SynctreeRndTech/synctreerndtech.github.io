@@ -11,7 +11,7 @@
 ![](../../img/assets/image%20%28190%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_concat"
     width="100%"
@@ -41,7 +41,7 @@
 ![](../../img/assets/image%20%28205%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_index"
     width="100%"
@@ -86,7 +86,7 @@
 ![](../../img/assets/image%20%28148%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_length"
     width="100%"
@@ -115,7 +115,7 @@
 ![](../../img/assets/image%20%28183%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_toarray"
     width="100%"
@@ -164,7 +164,7 @@
 ![](../../img/assets/image%20%28108%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_substring"
     width="100%"
@@ -194,7 +194,7 @@
 ![](../../img/assets/image%20%2879%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_replace"
     width="100%"
@@ -233,7 +233,7 @@
 ![](../../img/assets/image%20%28144%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_split"
     width="100%"
@@ -273,7 +273,7 @@
 ![](../../img/assets/image%20%28158%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_ltrim"
     width="100%"
@@ -302,7 +302,7 @@
 ![](../../img/assets/image%20%2860%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_rtrim"
     width="100%"

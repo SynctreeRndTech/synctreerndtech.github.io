@@ -7,7 +7,7 @@
 ![](../../img/assets/image%20%28102%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isArray"
     width="100%"
@@ -43,7 +43,7 @@
 ![](../../img/assets/image%20%2871%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isBoolean"
     width="100%"
@@ -79,7 +79,7 @@
 ![](../../img/assets/image%20%28112%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isFloat"
     width="100%"
@@ -115,7 +115,7 @@
 ![](../../img/assets/image%20%28199%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isInteger"
     width="100%"
@@ -151,7 +151,7 @@
 ![](../../img/assets/image%20%28434%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isNull"
     width="100%"
@@ -187,7 +187,7 @@
 ![](../../img/assets/image%20%28160%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isNumeric"
     width="100%"
@@ -223,7 +223,7 @@
 ![](../../img/assets/image%20%28172%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isString"
     width="100%"
@@ -259,7 +259,7 @@
 ![](../../img/assets/image%20%28197%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toString"
     width="100%"
@@ -282,7 +282,7 @@
 ![](../../img/assets/image%20%2880%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toInteger"
     width="100%"
@@ -306,7 +306,7 @@
 ![](../../img/assets/image%20%2898%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toFloat"
     width="100%"

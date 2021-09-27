@@ -44,7 +44,7 @@
 
 
 ### ● OAuth 2.0 Creation 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/oauth2.0_create"
     width="100%"
@@ -68,7 +68,7 @@
 ```
 
 ### ● OAuth 2.0 Verification 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/oauth2.0_verify"
     width="100%"
@@ -92,7 +92,7 @@
 ```
 
 ### ● OAuth 2.0 Client Creation 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/oauth2.0_client_create"
     width="100%"
@@ -116,7 +116,7 @@
 ```
 
 ### ● OAuth 2.0 Client Verificiation 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/oauth2.0_client_verify"
     width="100%"

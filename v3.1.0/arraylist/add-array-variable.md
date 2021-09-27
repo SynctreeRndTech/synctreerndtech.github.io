@@ -11,7 +11,7 @@
 ![](../../img/assets/image%20%28208%29.png)
 
 ### ● \***\*Add Array Variable **예문\*\*
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/arrayList/add_arraylist"
     width="100%"

@@ -5,7 +5,7 @@
         JSON Web Token 발급
 
 ### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_create"
     width="100%"
@@ -25,7 +25,7 @@
 ```
 
 ##### * Secret Key 생성
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_secret_key"
     width="100%"
@@ -50,7 +50,7 @@
         JSON Web Token 인증      
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_verify"
     width="100%"
@@ -85,7 +85,7 @@
 ```
 
 #### ● JWT Client 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_client"
     width="100%"

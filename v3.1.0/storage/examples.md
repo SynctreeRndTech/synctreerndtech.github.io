@@ -1,7 +1,7 @@
 ## Deep Into Storage Block
 
 ### ● Auto Commit 비활성화 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/storage/storage_example1"
     width="100%"
@@ -42,7 +42,7 @@
 ```
 
 ### ● 로그 테이블 저장 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/storage/storage_example2"
     width="100%"

@@ -7,7 +7,7 @@
 ![](../../img/assets/image%20%28129%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_contains_key"
     width="100%"
@@ -37,7 +37,7 @@
 ![](../../img/assets/image%20%28121%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_count"
     width="100%"
@@ -67,7 +67,7 @@
 ![](../../img/assets/image%20%28135%29.png)
 
 #### ● 예문
-
+<p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_equals"
     width="100%"
