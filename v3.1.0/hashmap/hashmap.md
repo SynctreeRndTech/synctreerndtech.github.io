@@ -20,7 +20,7 @@
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
     <p><img src="../../img/assets/image%20%28166%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%2853%29.pngg" alt="" /></p>
+    <p><img src="../../img/assets/image%20%2853%29.png" alt="" /></p>
 </div>
 
 ### ● \***\*HashMap **결과\*\*

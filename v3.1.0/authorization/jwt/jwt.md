@@ -13,7 +13,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/image%20%28266%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/jwt_create_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/jwt_create_example_2.png" alt="" /></p>    
 </div>
 
 ### ● 결과
@@ -33,6 +34,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
+    <p><img src="../../../img/assets/jwt_secret_key_example.png" alt="" /></p>
 </div>
 
 ##### * Secret Key 생성 결과
@@ -58,7 +60,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/image%20%28314%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/jwt_verify_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/jwt_verify_example_2.png" alt="" /></p>
 </div>
 
 ### ● 결과
@@ -93,6 +96,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
+    <p><img src="../../../img/assets/jwt_client_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/jwt_client_example_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/jwt_client_example_3.png" alt="" /></p>
 </div>
 
 ### ● 결과

@@ -19,9 +19,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%2897%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28178%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28180%29.png" alt="" /></p>
+    <p><img src="../../img/assets/add_arraylist_example_1.png" alt="" /></p>
+    <p><img src="../../img/assets/add_arraylist_example_2.png" alt="" /></p>
 </div>
 
 ### ● \***\*Add Array Variable **결과\*\*
