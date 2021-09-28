@@ -15,9 +15,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28394%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28436%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28388%29.png" alt="" /></p>
+    <p><img src="../../img/assets/json_encode_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -45,9 +43,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28386%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28461%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28391%29.png" alt="" /></p>
+    <p><img src="../../img/assets/json_decode_example.png" alt="" /></p>
 </div>
 
 #### ● 결과

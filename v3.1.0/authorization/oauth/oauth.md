@@ -52,6 +52,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
+    <p><img src="../../../img/assets/oauth2.0_create_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/oauth2.0_create_example_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/oauth2.0_create_example_3.png" alt="" /></p>
 </div>
 
 ### ● 결과
@@ -76,7 +79,10 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
+    <p><img src="../../../img/assets/oauth2.0_verify_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/oauth2.0_verify_example_2.png" alt="" /></p>
 </div>
+
 
 ### ● 결과
 
@@ -100,7 +106,11 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
+    <p><img src="../../../img/assets/oauth2.0_client_create_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/oauth2.0_client_create_example_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/oauth2.0_client_create_example_3.png" alt="" /></p>
 </div>
+
 
 ### ● 결과
 
@@ -124,6 +134,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
+    <p><img src="../../../img/assets/oauth2.0_client_verify_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/oauth2.0_client_verify_example_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/oauth2.0_client_verify_example_3.png" alt="" /></p>
 </div>
 
 ### ● 결과

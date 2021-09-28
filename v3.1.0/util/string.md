@@ -19,9 +19,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28376%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28353%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28338%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_concat_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -49,8 +47,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28357%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28369%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_index_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -94,8 +91,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28347%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28371%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_length_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -123,8 +119,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28367%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28375%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_toarray_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -172,9 +167,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28342%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28328%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28337%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_substring_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -202,9 +195,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28395%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28428%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28406%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_replace_example.png" alt="" /></p>
 </div>
 
 </iframe>
@@ -241,8 +232,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28352%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28378%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_split_example.png" alt="" /></p>
 </div>
 
 </iframe>
@@ -281,8 +271,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28323%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28324%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_ltrim_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -310,8 +299,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28372%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28334%29.png" alt="" /></p>
+    <p><img src="../../img/assets/string_rtrim_example.png" alt="" /></p>
 </div>
 
 #### ● 결과

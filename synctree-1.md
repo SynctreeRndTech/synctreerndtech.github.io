@@ -21,7 +21,7 @@ SyncTree는 복잡한 작업과 지속적인 관리 비용 없이 클라우드�
 
 ![](img/assets/image%20%2837%29.png)
 
-[더보기 -&gt;](https://synctree101.com/apiManagement.html)
+[더보기 ▶](https://synctree101.com/apiManagement.html)
 
 ### Serverless Microservices
 
@@ -31,10 +31,10 @@ SyncTree는 마이크로서비스를 구현하고 관리하기 위한 노코드 
 
 ![](img/assets/image%20%2835%29.png)
 
-[더보기 -&gt;](https://synctree101.com/microService.html)
+[더보기 ▶](https://synctree101.com/microService.html)
 
 ### 기능
 
 ![](img/assets/image%20%2833%29.png)
 
-[더보기 -&gt;](https://synctree101.com/features.html)
+[더보기 ▶](https://synctree101.com/features.html)

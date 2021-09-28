@@ -19,8 +19,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../img/assets/image%20%28103%29.png" alt="" /></p>
-    <p><img src="../img/assets/image%20%28128%29.png" alt="" /></p>
+    <p><img src="../../img/assets/arraylist_example_1.png" alt="" /></p>
+    <p><img src="../../img/assets/arraylist_example_2.png" alt="" /></p>
 </div>
 
 ### ● \***\*ArrayList **결과\*\*

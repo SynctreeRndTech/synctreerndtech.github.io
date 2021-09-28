@@ -19,8 +19,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../img/assets/image%20%2848%29.png" alt="" /></p>
-    <p><img src="../img/assets/image%20%28168%29.png" alt="" /></p>
+    <p><img src="../../img/assets/remove_arraylist_example_1.png" alt="" /></p>
+    <p><img src="../../img/assets/remove_arraylist_example_2.png" alt="" /></p>
 </div>
 
 ### ● \***\*Remove Array Variable **결과\*\*

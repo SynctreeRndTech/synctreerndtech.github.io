@@ -16,10 +16,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28363%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28335%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28333%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28379%29.png" alt="" /></p>
+    <p><img src="../../img/assets/loop_example_1.png" alt="" /></p>
+    <p><img src="../../img/assets/loop_example_2.png" alt="" /></p>
 </div>
 
 ### ● \***\*Loop **결과\*\*
