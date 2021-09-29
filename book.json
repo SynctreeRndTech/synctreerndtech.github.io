@@ -5,14 +5,19 @@
         "collapsible-menu",
         "toggle-chapters",
         "insert-logo",
-        "custom-favicon"
+        "custom-favicon",
+        "custom-js-css",
+        "-sharing"
     ],
     "pluginsConfig": {
         "insert-logo": {
             "url": "/logo/LOGO_Synctree_GNB_M.svg",
             "style": "background: none; max-height: 32px; min-height: 32px"
         },
-        "favicon": "/logo/favicon_sth_16.png"
+        "favicon": "/logo/favicon_sth_16.png",
+        "custom-js-css": {
+            "js": ["./js/custom.js"]
+        }
     },
     "styles": {
         "website": "/styles/website.css",
