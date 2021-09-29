@@ -16,12 +16,22 @@
         },
         "favicon": "/logo/favicon_sth_16.png",
         "custom-js-css": {
-            "js": ["./js/custom.js"]
+            "js": ["./js/custom.js"],
+            "css": ["./styles/custom.css"]
         }
     },
     "styles": {
         "website": "/styles/website.css",
         "pdf": "/styles/pdf.css"
+    },
+
+    "pdf": {
+        "margin": {
+            "right": 34,
+            "left": 34,
+            "top": 34,
+            "bottom": 38
+        }
     },
     "variables": {
         "iframe": "show",
