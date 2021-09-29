@@ -40,7 +40,7 @@ require(["gitbook", "jquery"], function (gitbook, $) {
             position: "right",
             onClick: function (e) {
                 e.preventDefault();
-                window.open("/book.pdf");
+                window.open("/SyncTree_Guide_Book_v3.1.0.pdf");
             },
         });
         gitbook.toolbar.createButton({
