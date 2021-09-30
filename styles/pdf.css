@@ -1,4 +1,5 @@
-.comment ,iframe {
+.comment,
+iframe {
     display: none;
 }
 .display-pdf {
