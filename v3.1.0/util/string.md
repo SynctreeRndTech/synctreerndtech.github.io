@@ -27,7 +27,7 @@
 ```text
 {
   "result": {
-    "concat": "Welcome toSynctree"
+    "concat": "Welcome to Synctree"
   }
 }
 ```
@@ -198,8 +198,6 @@
     <p><img src="../../img/assets/string_replace_example.png" alt="" /></p>
 </div>
 
-</iframe>
-
 #### ● 결과
 
 ```text
@@ -234,8 +232,6 @@
 <div class="display-pdf">
     <p><img src="../../img/assets/string_split_example.png" alt="" /></p>
 </div>
-
-</iframe>
 
 #### ● 결과
 
