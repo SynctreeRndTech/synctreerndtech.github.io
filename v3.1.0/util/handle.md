@@ -2,7 +2,7 @@
 
 ### ● IsArray
 
-       데이터 타입이 Array인지 판단하여 Boolean 값을 리턴할 때 사용
+        데이터 타입이 Array인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28102%29.png)
 
@@ -38,7 +38,7 @@
 
 ### ● IsBoolean
 
-      데이터 타입이 Boolean인지 판단하여 Boolean 값을 리턴할 때 사용
+        데이터 타입이 Boolean인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%2871%29.png)
 
@@ -74,7 +74,7 @@
 
 ### ● IsFloat
 
-       데이터 타입이 Float인지 판단하여 Boolean 값을 리턴할 때 사용
+        데이터 타입이 Float인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28112%29.png)
 
@@ -110,7 +110,7 @@
 
 ### ● IsInteger
 
-       데이터 타입이 Integer인지 판단하여 Boolean 값을 리턴할 때 사용
+        데이터 타입이 Integer인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28199%29.png)
 
@@ -146,7 +146,7 @@
 
 ### ● IsNull
 
-       데이터 타입이 Null인지 판단하여 Boolean 값을 리턴할 때 사용
+        데이터 타입이 Null인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28434%29.png)
 
@@ -182,7 +182,7 @@
 
 ### ● IsNumeric
 
-       데이터 타입이 Numeric인지 판단하여 Boolean 값을 리턴할 때 사용
+        데이터 타입이 Numeric인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28160%29.png)
 
@@ -218,7 +218,7 @@
 
 ### ● IsString
 
-       데이터 타입이 String인지 판단하여 Boolean 값을 리턴할 때 사용
+        데이터 타입이 String인지 판단하여 Boolean 값을 리턴할 때 사용
 
 ![](../../img/assets/image%20%28172%29.png)
 
@@ -254,7 +254,7 @@
 
 ### ● ToString
 
-       Value 값을 문자열로 형 변환할 때 사용
+        Value 값을 문자열로 형 변환할 때 사용
 
 ![](../../img/assets/image%20%28197%29.png)
 
@@ -277,7 +277,7 @@
 
 ### ● ToInteger
 
-       Value 값을 Integer로 변환할 때 사용
+        Value 값을 Integer로 변환할 때 사용
 
 ![](../../img/assets/image%20%2880%29.png)
 
@@ -301,7 +301,7 @@
 
 ### ● ToFloat
 
-       Value 값을 Float으로 변환할 때 사용
+        Value 값을 Float으로 변환할 때 사용
 
 ![](../../img/assets/image%20%2898%29.png)
 

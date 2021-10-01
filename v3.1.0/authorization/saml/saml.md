@@ -27,7 +27,7 @@
 
 ### ● SAML 2.0 Token 예문
 
-       Assertion 입력
+        Assertion 입력
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/saml2.0_token"
@@ -57,7 +57,7 @@
 
 ### ● SAML 2.0 Verify 예문
 
-       Assertion 검증
+        Assertion 검증
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/saml2.0_verify"

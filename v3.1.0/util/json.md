@@ -2,7 +2,7 @@
 
 ### ● Json Encode
 
-         입력된 데이터를 JSON 형태로 변환할 때 사용
+        입력된 데이터를 JSON 형태로 변환할 때 사용
 
 ![](../../img/assets/image%20%2869%29.png)
 

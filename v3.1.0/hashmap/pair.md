@@ -12,6 +12,12 @@
 
 ![](../../img/assets/image%20%28184%29.png)
 
+
+##### ● 예시
+
+![](../../img/assets/document_pair_1.png)
+![](../../img/assets/document_pair_2.png)
+
 ### ● datatype
 
         Document Pair에서 매개변수 타입을 지정할 때 사용

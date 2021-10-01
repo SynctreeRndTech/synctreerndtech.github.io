@@ -2,7 +2,7 @@
 
 ### ● Hex Encode
 
-       Hex 인코딩 시 사용
+        Hex 인코딩 시 사용
 
 ![](../../img/assets/image%20%28122%29.png)
 
@@ -30,7 +30,7 @@
 
 ### ● Hex Decode
 
-       Hex 인코딩 된 데이터를 Decode 된 데이터로 변환할 때 사용
+        Hex 인코딩 된 데이터를 Decode 된 데이터로 변환할 때 사용
 
 ![](../../img/assets/image%20%28165%29.png)
 
