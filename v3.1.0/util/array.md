@@ -2,7 +2,7 @@
 
 ### ● Array Contains Key
 
-         배열 내에 key가 있는지 확인할 때 사용
+        배열 내에 key가 있는지 확인할 때 사용
 
 ![](../../img/assets/image%20%28129%29.png)
 
@@ -32,7 +32,7 @@
 
 ### ● Array Count
 
-         배열 요소의 개수를 확인할 때 사용
+        배열 요소의 개수를 확인할 때 사용
 
 ![](../../img/assets/image%20%28121%29.png)
 
