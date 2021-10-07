@@ -11,6 +11,7 @@
 ![](../../img/assets/image%20%28190%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_concat"
@@ -39,6 +40,7 @@
 ![](../../img/assets/image%20%28205%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_index"
@@ -83,6 +85,7 @@
 ![](../../img/assets/image%20%28148%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_length"
@@ -111,6 +114,7 @@
 ![](../../img/assets/image%20%28183%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_toarray"
@@ -159,6 +163,7 @@
 ![](../../img/assets/image%20%28108%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_substring"
@@ -187,6 +192,7 @@
 ![](../../img/assets/image%20%2879%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_replace"
@@ -222,6 +228,7 @@
 ![](../../img/assets/image%20%28144%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_split"
@@ -252,6 +259,34 @@
 
 ![](../../img/assets/image%20%28218%29.png)
 
+#### ● 예문
+
+<p class='comment'>Studio Copy&Paste 가능</p>
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_split_regex"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/string_split_regex.png" alt="" /></p>
+</div>
+
+#### ● 결과
+
+```text
+{
+  "result": {
+    "str": "hypertext language, programming",
+    "match": [
+      "hypertext language",
+      " programming"
+    ],
+    "matchArrCnt": 2
+  }
+}
+```
+
 ### ● String LTrim
 
         문자열의 왼쪽 공백을 삭제할 때 사용
@@ -259,6 +294,7 @@
 ![](../../img/assets/image%20%28158%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_ltrim"
@@ -287,6 +323,7 @@
 ![](../../img/assets/image%20%2860%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_rtrim"
