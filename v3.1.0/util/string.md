@@ -215,11 +215,32 @@
 }
 ```
 
-### ● String Repleace-Regex
+### ● String Replace-Regex
 
         문자열에 정규식 패턴과 일치 하는 문자를 변환할 때 사용
 
 ![](../../img/assets/image%20%28107%29.png)
+
+#### ● 예문
+
+<p class='comment'>Studio Copy&Paste 가능</p>
+<iframe
+    src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/string_replace_regex"
+    width="100%"
+    height="800px"
+    allow=""
+    sandbox="allow-scripts allow-same-origin"/>
+<div class="display-pdf">
+    <p><img src="../../img/assets/string_replace_regex_example.png" alt="" /></p>
+</div>
+
+#### ● 결과
+
+```text
+{
+  "result": "Replace matched sequence"
+}
+```
 
 ### ● String Split
 
