@@ -2,11 +2,12 @@
 
 ### ● Hex Encode
 
-        Hex 인코딩 시 사용
+문자열을 ascii code로 변환 시 사용
 
 ![](../../img/assets/image%20%28122%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_encode"
@@ -30,11 +31,12 @@
 
 ### ● Hex Decode
 
-        Hex 인코딩 된 데이터를 Decode 된 데이터로 변환할 때 사용
+ascii code를 문자열로 변환 시 사용
 
 ![](../../img/assets/image%20%28165%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_decode"
