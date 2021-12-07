@@ -1,0 +1,7 @@
+.comment,
+iframe {
+    display: none;
+}
+.display-pdf {
+    display: block;
+}
