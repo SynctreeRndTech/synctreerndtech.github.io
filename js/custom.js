@@ -24,8 +24,8 @@ require(["gitbook", "jquery"], function (gitbook, $) {
     //     },
     // };
     gitbook.events.bind("start", function (e, config) {
-        console.log("custom js", config);
-        gitbook.toolbar.createButton({
+        // console.log("custom js", config);
+        config.gitbook.toolbar.createButton({
             icon: "synctree",
             label: "Share",
             position: "right",
