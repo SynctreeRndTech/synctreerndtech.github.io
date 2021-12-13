@@ -5,7 +5,8 @@
         "toggle-chapters",
         "insert-logo",
         "custom-favicon",
-        "scripts"
+        "scripts",
+        "-sharing"
     ],
     "pluginsConfig": {
         "insert-logo": {
@@ -15,6 +16,14 @@
         "favicon": "/logo/favicon_sth_16.png",
         "scripts": {
             "files": ["./js/custom.js"]
+        },
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false
         }
     }
 }

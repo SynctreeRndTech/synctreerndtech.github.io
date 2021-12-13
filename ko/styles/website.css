@@ -86,3 +86,11 @@ iframe {
     display: block;
     margin-top: 16px;
 }
+/* 
+.dropdown.pull-right.js-toolbar-action {
+    display: none;
+} */
+
+li:has(.gitbook-link) {
+    display: none;
+}
