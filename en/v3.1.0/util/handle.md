@@ -4,9 +4,10 @@
 
         It is used to determine whether the data type is Array and return a Boolean value.
 
-![](../../img/assets/image%20%28102%29.png)
+![](../../../img/assets/image%20%28102%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isArray"
@@ -40,9 +41,10 @@
 
         It is used to determine whether the data type is Boolean and return a Boolean value.
 
-![](../../img/assets/image%20%2871%29.png)
+![](../../../img/assets/image%20%2871%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isBoolean"
@@ -76,9 +78,10 @@
 
         It is used to determine whether the data type is Float and return a Boolean value.
 
-![](../../img/assets/image%20%28112%29.png)
+![](../../../img/assets/image%20%28112%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isFloat"
@@ -112,9 +115,10 @@
 
         It is used to determine whether the data type is Integer and return a Boolean value.
 
-![](../../img/assets/image%20%28199%29.png)
+![](../../../img/assets/image%20%28199%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isInteger"
@@ -148,9 +152,10 @@
 
         Used to determine whether the data type is Null and return a Boolean value.
 
-![](../../img/assets/image%20%28434%29.png)
+![](../../../img/assets/image%20%28434%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isNull"
@@ -184,9 +189,10 @@
 
         Used to determine whether the data type is Numeric and return a Boolean value
 
-![](../../img/assets/image%20%28160%29.png)
+![](../../../img/assets/image%20%28160%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isNumeric"
@@ -220,9 +226,10 @@
 
       It is used to determine whether the data type is String and return a Boolean value.
 
-![](../../img/assets/image%20%28172%29.png)
+![](../../../img/assets/image%20%28172%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/isString"
@@ -256,9 +263,10 @@
 
         Used to cast a value to a string
 
-![](../../img/assets/image%20%28197%29.png)
+![](../../../img/assets/image%20%28197%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toString"
@@ -279,9 +287,10 @@
 
         Used to convert Value to Integer
 
-![](../../img/assets/image%20%2880%29.png)
+![](../../../img/assets/image%20%2880%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toInteger"
@@ -303,9 +312,10 @@
 
         Used to convert Value to Float
 
-![](../../img/assets/image%20%2898%29.png)
+![](../../../img/assets/image%20%2898%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/handle/toFloat"

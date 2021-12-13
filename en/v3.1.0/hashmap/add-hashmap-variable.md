@@ -4,13 +4,14 @@
 
         Add key and value to HashMap
 
-![](../../img/assets/image%20%2812%29.png)
+![](../../../img/assets/image%20%2812%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%28185%29.png)
+![](../../../img/assets/image%20%28185%29.png)
 
 ### ● \***\*Add HashMap **Example\*\*
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hashmap/add_hashmap"

@@ -4,13 +4,14 @@
 
         Delete an array type variable value or a specific key value of an array
 
-![](../../img/assets/image%20%28216%29.png)
+![](../../../img/assets/image%20%28216%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%28106%29.png)
+![](../../../img/assets/image%20%28106%29.png)
 
 ### ● \***\*Remove Array Variable **Example\*\*
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/arrayList/remove_arraylist"

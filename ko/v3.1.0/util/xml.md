@@ -4,9 +4,10 @@
 
         입력된 데이터를 XML 형태로 변환할 때 사용
 
-![](../../img/assets/image%20%28204%29.png)
+![](../../../img/assets/image%20%28204%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/xml/xml_encode"
@@ -32,9 +33,10 @@
 
         XML 형태의 데이터를 Decode된 데이터로 변환할 때 사용
 
-![](../../img/assets/image%20%28101%29.png)
+![](../../../img/assets/image%20%28101%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/xml/xml_decode"

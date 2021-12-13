@@ -4,13 +4,14 @@
 
         Delete key and value in HashMap
 
-![](../../img/assets/image%20%289%29.png)
+![](../../../img/assets/image%20%289%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%2874%29.png)
+![](../../../img/assets/image%20%2874%29.png)
 
 ### ● \***\*Remove HashMap **Example\*\*
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hashmap/remove_hashmap"

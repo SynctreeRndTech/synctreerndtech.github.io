@@ -4,9 +4,10 @@
 
         Used to check if a key exists in an array
 
-![](../../img/assets/image%20%28129%29.png)
+![](../../../img/assets/image%20%28129%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_contains_key"
@@ -34,9 +35,10 @@
 
         Used to check the number of elements in an array
 
-![](../../img/assets/image%20%28121%29.png)
+![](../../../img/assets/image%20%28121%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_count"
@@ -64,9 +66,10 @@
 
         Used to check if the elements of two arrays are equal
 
-![](../../img/assets/image%20%28135%29.png)
+![](../../../img/assets/image%20%28135%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/array/array_equals"

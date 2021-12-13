@@ -2,7 +2,7 @@
 
 ### ● RateLimit
 
-        요청 한도 제어
+        Request limit control
 
 ![](../../../img/assets/image%20%28220%29.png)
 

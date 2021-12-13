@@ -4,9 +4,10 @@
 
         Limit Control of Request
 
-![](../../img/assets/image%20%28220%29.png)
+![](../../../img/assets/image%20%28220%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/accesscontrol/access_control"

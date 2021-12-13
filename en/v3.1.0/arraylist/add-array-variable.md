@@ -4,13 +4,14 @@
 
         Add a value to an array variable
 
-![](../../img/assets/image%20%28116%29.png)
+![](../../../img/assets/image%20%28116%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%28208%29.png)
+![](../../../img/assets/image%20%28208%29.png)
 
 ### ● \***\*Add Array Variable **Example\*\*
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/arrayList/add_arraylist"

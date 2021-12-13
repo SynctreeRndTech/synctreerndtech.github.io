@@ -4,13 +4,14 @@
 
         Get the value of an array type variable or a specific key value of an array
 
-![](../../img/assets/image%20%28217%29.png)
+![](../../../img/assets/image%20%28217%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%2872%29.png)
+![](../../../img/assets/image%20%2872%29.png)
 
 ### ● \***\*Get Array Variable **Example\*\*
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/arrayList/get_arraylist"

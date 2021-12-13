@@ -4,27 +4,28 @@
 
         Declare a variable
 
-![](../../img/assets/image%20%2873%29.png)
+![](../../../img/assets/image%20%2873%29.png)
 
 ### ● **Set to**
 
         Set a value to a declared variable
 
-![](../../img/assets/image%20%2875%29.png)
+![](../../../img/assets/image%20%2875%29.png)
 
 ### ● **Get**
 
         Get a value of a declared variable
 
-![](../../img/assets/image%20%28157%29.png)
+![](../../../img/assets/image%20%28157%29.png)
 
 ### ● **Fetch**
 
-        Get the values of header and body field of a Transfer block by unique ID 
+        Get the values of header and body field of a Transfer block by unique ID
 
-![](../../img/assets/image%20%28162%29.png)
+![](../../../img/assets/image%20%28162%29.png)
 
 ### ● \***\*Variable **Example\*\*
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/variable/variable_example"

@@ -4,9 +4,10 @@
 
         Used to return a base64-encoded string
 
-![](../../img/assets/image%20%2859%29.png)
+![](../../../img/assets/image%20%2859%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/base64/base64_encode"
@@ -32,9 +33,10 @@
 
         Used to undo the Base64-encoded string into the original string
 
-![](../../img/assets/image%20%2855%29.png)
+![](../../../img/assets/image%20%2855%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/base64/base64_decode"

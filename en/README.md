@@ -1,5 +1,5 @@
 ---
-description: 
+description:
 ---
 
 ## SyncTree?
@@ -30,7 +30,7 @@ SyncTree is an API Full Lifecycle management solution that supports the digital 
 
 SyncTree provides all functions of API Lifecycle Management to create, manage, analyze, and monetize APIs in a cloud environment without complex tasks and ongoing management costs.
 
-![](assets/image%20%2837%29.png)
+![](../assets/image%20%2837%29.png)
 
 <p class='comment'><a href="https://synctree101.com/apiManagement.html" target="_blank">See More</p>
 
@@ -40,13 +40,12 @@ SyncTree is a no-code, all-in-one solution for implementing and managing microse
 
 Microservices are essential to success in the digital age, and you need microservices management solutions that support continuous digital transformation. SyncTree is a no-code microservices management solution that supports a company's ongoing digital strategy and accelerates digital transformation, helping new business strategies and rapid business transformation. SyncTree provides the ability to implement, deploy, and manage microservices without a separate development environment in a serverless environment that does not require server build and operation.
 
-![](assets/image%20%2835%29.png)
+![](../assets/image%20%2835%29.png)
 
 <p class='comment'><a href="https://synctree101.com/microService.html" target="_blank">See More</p>
 
 ### 기능
 
-![](assets/image%20%2833%29.png)
+![](../assets/image%20%2833%29.png)
 
 <p class='comment'><a href="https://synctree101.com/features.html" target="_blank">See More</p>
-

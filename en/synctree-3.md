@@ -10,6 +10,6 @@ Try SyncTree on the playground without signup or login.
 
 ● Testing is possible immediately through simple click on saving and building BizUnit.
 
-![](assets/image%20%2821%29.png)
+![](../assets/image%20%2821%29.png)
 
-![](assets/image%20%2827%29.png)
+![](../assets/image%20%2827%29.png)

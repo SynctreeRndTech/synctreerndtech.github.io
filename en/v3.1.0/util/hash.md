@@ -4,9 +4,10 @@
 
         Used to convert input data into XML format
 
-![](../../img/assets/image%20%2854%29.png)
+![](../../../img/assets/image%20%2854%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash"
@@ -32,9 +33,10 @@
 
         Used to output the hash value with the algorithm entered after generating the HMAC value
 
-![](../../img/assets/image%20%2870%29.png)
+![](../../../img/assets/image%20%2870%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hash/hash_hmac"
@@ -56,12 +58,12 @@
 }
 ```
 
-### ● available Algorithms 
+### ● available Algorithms
 
-|               |                |                 |                |                | 
+|               |                |                 |                |                |
 | :------------ | :------------- | :-------------- | :------------- | :------------- |
 | **md2**       | **ripemd256**  | **gost**        | **haval128,3** | **haval128,5** |
-| **md4**       | **ripemd320**  | **gost-crypto** | **haval160,3** | **haval160,5** | 
+| **md4**       | **ripemd320**  | **gost-crypto** | **haval160,3** | **haval160,5** |
 | **md5**       | **tiger128,3** | **adler32**     | **haval192,3** | **haval192,5** |
 | **sha1**      | **tiger160,3** | **crc32**       | **haval224,3** | **haval224,5** |
 | **sha224**    | **tiger192,3** | **crc32b**      | **haval256,3** | **haval256,5** |
@@ -69,4 +71,4 @@
 | **sha384**    | **tiger160,4** | **fnv1a32**     | **haval160,4** |                |
 | **sha512**    | **tiger192,4** | **fnv164**      | **haval192,4** |                |
 | **ripemd128** | **snefru**     | **fnv1a64**     | **haval224,4** |                |
-| **ripemd160** | **snefru256**  | **joaat**       | **haval256,4** |                | 
+| **ripemd160** | **snefru256**  | **joaat**       | **haval256,4** |                |

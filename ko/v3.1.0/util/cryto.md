@@ -4,9 +4,10 @@
 
        문자열을 인코딩하여 반환할 때 사용
 
-![](../../img/assets/image%20%2896%29.png)
+![](../../../img/assets/image%20%2896%29.png)
 
 ### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/crypto/crypto_encrypt"
@@ -33,9 +34,10 @@
 
        문자열을 디코딩하여 반환할 때 사용
 
-![](../../img/assets/image%20%28154%29.png)
+![](../../../img/assets/image%20%28154%29.png)
 
 ### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/crypto/crypto_decrypt"
@@ -63,10 +65,10 @@
 ## ● 사용 가능한 method
 
 |                  |                  |                  |
-| :--------------- | :--------------- | :--------------- | 
-| **AES128**       | **AES192**       | **AES256**       | 
+| :--------------- | :--------------- | :--------------- |
+| **AES128**       | **AES192**       | **AES256**       |
 | **AES-128-CBC**  | **AES-192-CBC**  | **AES-256-CBC**  |
-| **AES-128-CFB**  | **AES-192-CFB**  | **AES-256-CFB**  |  
-| **AES-128-CFB1** | **AES-192-CFB1** | **AES-256-CFB1** | 
-| **AES-128-CFB8** | **AES-192-CFB8** | **AES-256-CFB8** |  
-| **AES-128-OFB**  | **AES-192-OFB**  | **AES-256-OFB**  |  
+| **AES-128-CFB**  | **AES-192-CFB**  | **AES-256-CFB**  |
+| **AES-128-CFB1** | **AES-192-CFB1** | **AES-256-CFB1** |
+| **AES-128-CFB8** | **AES-192-CFB8** | **AES-256-CFB8** |
+| **AES-128-OFB**  | **AES-192-OFB**  | **AES-256-OFB**  |

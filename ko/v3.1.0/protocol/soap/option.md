@@ -6,7 +6,7 @@
 
 참고 : https://www.php.net/manual/en/soapclient.construct.php
 
-![](../../../img/assets/image%20%28207%29.png)
+![](../../../../img/assets/image%20%28207%29.png)
 
 ### ● timeout
 
@@ -14,4 +14,4 @@
 
 참고 : https://www.php.net/manual/en/soapclient.construct.php
 
-![](../../../img/assets/image%20%28164%29.png)
+![](../../../../img/assets/image%20%28164%29.png)

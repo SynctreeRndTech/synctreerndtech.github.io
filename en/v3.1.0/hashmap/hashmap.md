@@ -4,13 +4,14 @@
 
         Create a HashMap type data structure
 
-![](../../img/assets/image%20%2876%29.png)
+![](../../../img/assets/image%20%2876%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%2893%29.png)
+![](../../../img/assets/image%20%2893%29.png)
 
 ### ● \***\*HashMap **Example\*\*
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hashmap/hashmap_example"

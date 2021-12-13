@@ -5,10 +5,9 @@
 -   [How to use SyncTree](synctree-3.md)
 -   [Hello! SyncTree](synctree-4.md)
 
-
 ## SyncTree NBlock <a id="synctree"></a>
 
--   [v3.1.0](v3.1.0/primitive.md)
+-   [v3.1.0](v3.1.0/primitive/primitive.md)
     -   [Primitive](v3.1.0/primitive/primitive.md)
     -   [Variable](v3.1.0/variable/variable.md)
     -   [HashMap](v3.1.0/hashmap/README.md)
@@ -68,9 +67,7 @@
                 -   [Generate](v3.1.0/authorization/jwt/payload/generate.md)
                 -   [Verify](v3.1.0/authorization/jwt/payload/verify.md)
         -   [OAuth 2.0](v3.1.0/authorization/oauth/2.0.md)
-        -   [SAML 2.0](v3.1.0/authorization/saml/saml.md)
-                -   [Response](v3.1.0/authorization/saml/2.0/response.md)
-                -   [Credential](v3.1.0/authorization/saml/2.0/credential.md)
+        -   [SAML 2.0](v3.1.0/authorization/saml/saml.md) - [Response](v3.1.0/authorization/saml/2.0/response.md) - [Credential](v3.1.0/authorization/saml/2.0/credential.md)
         -   [SimpleKey](v3.1.0/authorization/simplekey.md)
     -   [AccessControl](v3.1.0/accesscontrol/accesscontrol.md)
         -   [RateLimit](v3.1.0/accesscontrol/ratelimit.md)
@@ -83,7 +80,7 @@
 -   [Storage(DBStorage)](block-coding-guide/db-database.md)
 -   [Storage(QueryManager)](block-coding-guide/query-manager.md)
 
-## Case Study
+<!-- ## Case Study
 
 -   [Naver News Search API](case-studies/naver-news-search-api.md)
--   [Facebook Messenger Template 생성](case-studies/fb-msnger.md)
+-   [Facebook Messenger Template 생성](case-studies/fb-msnger-template.md) -->

@@ -4,9 +4,10 @@
 
        Used to encode and return a string
 
-![](../../img/assets/image%20%28175%29.png)
+![](../../../img/assets/image%20%28175%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_encode"
@@ -32,9 +33,10 @@
 
         Used to restore the encoded string to the original string.
 
-![](../../img/assets/image%20%28117%29.png)
+![](../../../img/assets/image%20%28117%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_decode"

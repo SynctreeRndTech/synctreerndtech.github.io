@@ -4,9 +4,10 @@
 
        문자열을 인코딩하여 반환할 때 사용
 
-![](../../img/assets/image%20%28175%29.png)
+![](../../../img/assets/image%20%28175%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_encode"
@@ -32,9 +33,10 @@
 
         인코딩 된 문자열을 원래 문자열로 원복할 때 사용
 
-![](../../img/assets/image%20%28117%29.png)
+![](../../../img/assets/image%20%28117%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/url/url_decode"

@@ -4,9 +4,10 @@
 
         Used for hex encoding
 
-![](../../img/assets/image%20%28122%29.png)
+![](../../../img/assets/image%20%28122%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_encode"
@@ -32,9 +33,10 @@
 
         Used to convert hex-encoded data into decoded data
 
-![](../../img/assets/image%20%28165%29.png)
+![](../../../img/assets/image%20%28165%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/convert/hex_decode"

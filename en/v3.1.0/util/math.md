@@ -4,9 +4,10 @@
 
         arithmetic operator (+, -, *, /, %)
 
-![](../../img/assets/image%20%28104%29.png)
+![](../../../img/assets/image%20%28104%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/math_1"
@@ -38,9 +39,10 @@
 
         increment operator (++, --)
 
-![](../../img/assets/image%20%28115%29.png)
+![](../../../img/assets/image%20%28115%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/util/math_2"

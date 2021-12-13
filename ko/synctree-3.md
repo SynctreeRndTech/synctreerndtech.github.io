@@ -14,6 +14,6 @@ description: 가입이나 로그인 없이 플레이그라운드에서 SyncTree�
 
 ● 저장 후 Build Bizunit을 통해 테스트가 바로 가능합니다.
 
-![](assets/image%20%2821%29.png)
+![](../assets/image%20%2821%29.png)
 
-![](assets/image%20%2827%29.png)
+![](../assets/image%20%2827%29.png)

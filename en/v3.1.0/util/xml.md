@@ -4,9 +4,10 @@
 
         Used to convert input data into XML format
 
-![](../../img/assets/image%20%28204%29.png)
+![](../../../img/assets/image%20%28204%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/xml/xml_encode"
@@ -32,9 +33,10 @@
 
         Used to convert XML data into decoded data.
 
-![](../../img/assets/image%20%28101%29.png)
+![](../../../img/assets/image%20%28101%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/xml/xml_decode"

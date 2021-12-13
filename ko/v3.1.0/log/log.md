@@ -7,6 +7,7 @@
 ![](,,/../img/assets/image%20%28243%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/log/info"
@@ -33,6 +34,7 @@
 ![](,,/../img/assets/image%20%28306%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/log/debug"
@@ -56,9 +58,10 @@
 
         Error 레벨의 로그를 서버에 기록할 때 사용
 
-![](../../img/assets/image%20%28262%29.png)
+![](../../../img/assets/image%20%28262%29.png)
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/log/error"

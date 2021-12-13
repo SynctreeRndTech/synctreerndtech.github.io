@@ -4,11 +4,11 @@
 
         Used when consolidating multiple String strings into one
 
-![](../../img/assets/image%20%2863%29.png)
+![](../../../img/assets/image%20%2863%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%28190%29.png)
+![](../../../img/assets/image%20%28190%29.png)
 
 #### ● Example
 
@@ -37,7 +37,7 @@
 
         Used to find the position of the character you want to find in a string
 
-![](../../img/assets/image%20%28205%29.png)
+![](../../../img/assets/image%20%28205%29.png)
 
 #### ● Example
 
@@ -66,23 +66,23 @@
 
         string formatting
 
-![](../../img/assets/image%20%28210%29.png)
+![](../../../img/assets/image%20%28210%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%2899%29.png)
+![](../../../img/assets/image%20%2899%29.png)
 
 ### ● String Charset Encode
 
         string encoding
 
-![](../../img/assets/image%20%28146%29.png)
+![](../../../img/assets/image%20%28146%29.png)
 
 ### ● String Length
 
         Used to check the length of a string
 
-![](../../img/assets/image%20%28148%29.png)
+![](../../../img/assets/image%20%28148%29.png)
 
 #### ● Example
 
@@ -111,7 +111,7 @@
 
         Used to return a string as an array
 
-![](../../img/assets/image%20%28183%29.png)
+![](../../../img/assets/image%20%28183%29.png)
 
 #### ● Example
 
@@ -160,7 +160,7 @@
 
         Used to extract a part of a string
 
-![](../../img/assets/image%20%28108%29.png)
+![](../../../img/assets/image%20%28108%29.png)
 
 #### ● Example
 
@@ -189,7 +189,7 @@
 
         Used to change one character to another in a string
 
-![](../../img/assets/image%20%2879%29.png)
+![](../../../img/assets/image%20%2879%29.png)
 
 #### ● Example
 
@@ -219,7 +219,7 @@
 
         Used to convert characters that match a regular expression pattern to a string
 
-![](../../img/assets/image%20%28107%29.png)
+![](../../../img/assets/image%20%28107%29.png)
 
 #### ● Example
 
@@ -246,7 +246,7 @@
 
         Used to split a string by separating a specific character in the string and output it as an array
 
-![](../../img/assets/image%20%28144%29.png)
+![](../../../img/assets/image%20%28144%29.png)
 
 #### ● Example
 
@@ -278,7 +278,7 @@
 
         Used when splitting a string (regular expression)
 
-![](../../img/assets/image%20%28218%29.png)
+![](../../../img/assets/image%20%28218%29.png)
 
 #### ● Example
 
@@ -312,7 +312,7 @@
 
         Used to remove whitespace from the left side of a string
 
-![](../../img/assets/image%20%28158%29.png)
+![](../../../img/assets/image%20%28158%29.png)
 
 #### ● Example
 
@@ -341,7 +341,7 @@
 
         Used to remove whitespace on the right side of a string
 
-![](../../img/assets/image%20%2860%29.png)
+![](../../../img/assets/image%20%2860%29.png)
 
 #### ● Example
 

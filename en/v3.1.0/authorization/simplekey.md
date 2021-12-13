@@ -4,7 +4,7 @@
 
         SimpleKey authentication
 
-![](../../img/assets/image%20%28260%29.png)
+![](../../../img/assets/image%20%28260%29.png)
 
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe

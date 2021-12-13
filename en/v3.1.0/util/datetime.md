@@ -4,9 +4,10 @@
 
         Used to create the current time or a specific date
 
-![String input : now, 9999-99-99](../../img/assets/image%20%28142%29.png)
+![String input : now, 9999-99-99](../../../img/assets/image%20%28142%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime"
@@ -33,9 +34,10 @@
 
         Used to convert a date to seconds and return it
 
-![](../../img/assets/image%20%28198%29.png)
+![](../../../img/assets/image%20%28198%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_timestamp"
@@ -62,13 +64,14 @@
 
         Used to increment a value from the current date
 
-![](../../img/assets/image%20%28125%29.png)
+![](../../../img/assets/image%20%28125%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%28191%29.png)
+![](../../../img/assets/image%20%28191%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_add"
@@ -80,7 +83,7 @@
     <p><img src="../../img/assets/image%20%28348%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28361%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28358%29.png" alt="" /></p>
-</div>    
+</div>
 
 #### ● Result
 
@@ -96,13 +99,14 @@
 
         Used to decrement a value from the current date.
 
-![](../../img/assets/image%20%28174%29.png)
+![](../../../img/assets/image%20%28174%29.png)
 
         You can add or delete items by clicking the settings button
 
-![](../../img/assets/image%20%28132%29.png)
+![](../../../img/assets/image%20%28132%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_subtract"
@@ -114,7 +118,7 @@
     <p><img src="../../img/assets/image%20%28359%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28345%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28326%29.png" alt="" /></p>
-</div>     
+</div>
 
 #### ● Result
 
@@ -130,9 +134,10 @@
 
         Used to specify the format of the date expression (based on PHP)
 
-![](../../img/assets/image%20%28141%29.png)
+![](../../../img/assets/image%20%28141%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_format"
@@ -143,7 +148,7 @@
 <div class="display-pdf">
     <p><img src="../../img/assets/image%20%28325%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28360%29.png" alt="" /></p>
-</div>    
+</div>
 
 #### ● Result
 
@@ -159,9 +164,10 @@
 
         Used to calculate increment or decrement values ​​from datetime1 to datetime2
 
-![](../../img/assets/image%20%28213%29.png)
+![](../../../img/assets/image%20%28213%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_diff"
@@ -173,7 +179,7 @@
     <p><img src="../../img/assets/image%20%28341%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28365%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28351%29.png" alt="" /></p>
-</div>  
+</div>
 
 #### ● Result
 
@@ -189,9 +195,10 @@
 
         Used to specify the format of the Diff Block value expression in the Datetime object.
 
-![](../../img/assets/image%20%28214%29.png)
+![](../../../img/assets/image%20%28214%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_format_diff"
@@ -203,7 +210,7 @@
     <p><img src="../../img/assets/image%20%28374%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28354%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28350%29.png" alt="" /></p>
-</div>  
+</div>
 
 #### ● Result
 
@@ -219,9 +226,10 @@
 
         Used to set the current time of a DateTime object to another time
 
-![](../../img/assets/image%20%28161%29.png)
+![](../../../img/assets/image%20%28161%29.png)
 
 #### ● Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/datetime/datetime_offset"
@@ -232,7 +240,7 @@
 <div class="display-pdf">
     <p><img src="../../img/assets/image%20%28344%29.png" alt="" /></p>
     <p><img src="../../img/assets/image%20%28322%29.png" alt="" /></p>
-</div>  
+</div>
 
 #### ● Result
 

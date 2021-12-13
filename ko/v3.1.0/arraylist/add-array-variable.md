@@ -4,13 +4,14 @@
 
         배열형 변수에 값을 추가할 때 사용
 
-![](../../img/assets/image%20%28116%29.png)
+![](../../../img/assets/image%20%28116%29.png)
 
         설정 버튼을 클릭하여 item을 추가 또는 삭제 가능
 
-![](../../img/assets/image%20%28208%29.png)
+![](../../../img/assets/image%20%28208%29.png)
 
 ### ● \***\*Add Array Variable **예문\*\*
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/arrayList/add_arraylist"

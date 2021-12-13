@@ -4,27 +4,28 @@
 
         **** 변수를 선언할 때 사용
 
-![](../../img/assets/image%20%2873%29.png)
+![](../../../img/assets/image%20%2873%29.png)
 
 ### ● **Set to**
 
         **** 선언된 변수에 값을 셋팅할 때 사용
 
-![](../../img/assets/image%20%2875%29.png)
+![](../../../img/assets/image%20%2875%29.png)
 
 ### ● **Get**
 
         **** 선언된 변수의 값을 가져올 때 사용
 
-![](../../img/assets/image%20%28157%29.png)
+![](../../../img/assets/image%20%28157%29.png)
 
 ### ● **Fetch**
 
         Transfer에 대한 ID 값을 가져와서 header와 body의 값을 컨트롤할 때 사용
 
-![](../../img/assets/image%20%28162%29.png)
+![](../../../img/assets/image%20%28162%29.png)
 
 ### ● \***\*Variable **예문\*\*
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/variable/variable_example"
