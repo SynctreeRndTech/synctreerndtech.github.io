@@ -16,6 +16,7 @@ SyncTree enables managing full API lifecycle and the implementation and manageme
     width="100%"
     height="500px"
     style="border:0 none"
+    allow=""
     sandbox="allow-scripts allow-popups">
 </iframe>
 <p class='comment'><a href="https://synctree101.com" target="_blank">Visit Our Website</p>

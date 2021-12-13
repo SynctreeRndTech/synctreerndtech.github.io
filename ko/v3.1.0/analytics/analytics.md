@@ -24,8 +24,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../img/assets/analytics_example_1.png" alt="" /></p>
-    <p><img src="../img/assets/analytics_example_2.png" alt="" /></p>
+    <p><img src="../../img/assets/analytics_example_1.png" alt="" /></p>
+    <p><img src="../../img/assets/analytics_example_2.png" alt="" /></p>
 </div>
 
     3. "aaa"를 입력하여 Trigger Metrics > test Channel > visit Menu > "call" Action +1 카운트

@@ -1,6 +1,7 @@
 ## Deep Into Storage Block
 
 ### ● Disable Auto Commit Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/storage/storage_example1"
@@ -9,14 +10,14 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/storage_example_1_1.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_1_2.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_1_3.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_1_4.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_1_5.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_1_6.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_1_7.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_1_8.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_3.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_4.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_5.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_6.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_7.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_1_8.png" alt="" /></p>
 </div>
 
 ### ● Result
@@ -50,6 +51,7 @@
 ```
 
 ### ● save log table Example
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/storage/storage_example2"
@@ -58,25 +60,25 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/storage_example_2_1.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_2.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_3.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_4.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_5.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_6.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_7.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_8.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_9.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_10.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_11.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_12.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_13.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_14.png" alt="" /></p>
-    <p><img src="../../img/assets/storage_example_2_15.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_3.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_4.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_5.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_6.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_7.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_8.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_9.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_10.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_11.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_12.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_13.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_14.png" alt="" /></p>
+    <p><img src="../../../img/assets/storage_example_2_15.png" alt="" /></p>
 </div>
 
 ```text
-CREATE TABLE trans_hist ( 
+CREATE TABLE trans_hist (
     api_tran_id varchar(20) NOT NULL, # 거래고유번호
     tran_reg_date varchar(8) NOT NULL, # 등록일자
     group_cd varchar(3) NOT NULL, # 그룹코드
@@ -101,9 +103,7 @@ CREATE TABLE trans_hist (
   }
 }
 ```
+
 <div div class='img-wrap'>
-  <a href="../../img/assets/storage_example_2_result_select.png" target = "_blank"><img src="../../img/assets/storage_example_2_result_select.png" /></a>
+  <a href="../../img/assets/storage_example_2_result_select.png" target = "_blank"><img src="../../../img/assets/storage_example_2_result_select.png" /></a>
 </div>
-
-
-

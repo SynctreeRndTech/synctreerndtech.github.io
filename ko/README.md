@@ -16,6 +16,7 @@ SyncTree는 API Full Lifecycle 관리와 독립적인 마이크로서비스 구�
     width="100%"
     height="500px"
     style="border:0 none"
+    allow=""
     sandbox="allow-scripts allow-popups">
 </iframe>
 <p class='comment'><a href="https://synctree101.com" target="_blank">홈페이지 바로가기</p>

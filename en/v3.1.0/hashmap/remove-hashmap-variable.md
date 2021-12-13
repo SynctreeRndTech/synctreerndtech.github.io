@@ -20,9 +20,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%2865%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28200%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28137%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%2865%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28200%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28137%29.png" alt="" /></p>
 </div>
 
 ### ● \***\*Remove HashMap **Result\*\*

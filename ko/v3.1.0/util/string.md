@@ -20,7 +20,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_concat_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_concat_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -49,7 +49,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_index_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_index_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -94,7 +94,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_length_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_length_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -123,7 +123,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_toarray_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_toarray_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -172,7 +172,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_substring_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_substring_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -201,7 +201,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_replace_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_replace_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -231,7 +231,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_replace_regex_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_replace_regex_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -258,7 +258,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_split_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_split_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -290,7 +290,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_split_regex.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_split_regex.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -324,7 +324,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_ltrim_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_ltrim_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -353,7 +353,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/string_rtrim_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/string_rtrim_example.png" alt="" /></p>
 </div>
 
 #### ● 결과

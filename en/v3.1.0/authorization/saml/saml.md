@@ -3,6 +3,7 @@
 ### ● SAML 2.0 Request Example
 
         Assertion issuance
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/saml2.0_request"
@@ -11,10 +12,10 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/saml2.0_request_example_1.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_request_example_2.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_request_example_3.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_request_example_4.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_request_example_1.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_request_example_2.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_request_example_3.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_request_example_4.png" alt="" /></p>
 </div>
 
 ### ● Result
@@ -28,6 +29,7 @@
 ### ● SAML 2.0 Token Example
 
         Assertion input
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/saml2.0_token"
@@ -36,10 +38,10 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/saml2.0_token_example_1.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_token_example_2.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_token_example_3.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_token_example_4.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_token_example_1.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_token_example_2.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_token_example_3.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_token_example_4.png" alt="" /></p>
 </div>
 
 ### ● Result
@@ -58,6 +60,7 @@
 ### ● SAML 2.0 Verify Example
 
         Assertion verification
+
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/saml2.0_verify"
@@ -66,9 +69,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/saml2.0_verify_example_1.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_verify_example_2.png" alt="" /></p>
-    <p><img src="../../../img/assets/saml2.0_verify_example_3.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_verify_example_1.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_verify_example_2.png" alt="" /></p>
+    <p><img src="../../../../img/assets/saml2.0_verify_example_3.png" alt="" /></p>
 </div>
 
 ### ● Result

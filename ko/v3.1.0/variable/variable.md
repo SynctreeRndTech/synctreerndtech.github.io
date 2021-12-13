@@ -34,9 +34,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28176%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%2866%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%2882%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28176%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%2866%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%2882%29.png" alt="" /></p>
 </div>
 
 ### ● \***\*Variable **결과\*\*

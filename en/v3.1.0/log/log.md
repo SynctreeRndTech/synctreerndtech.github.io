@@ -16,8 +16,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28401%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28383%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28401%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28383%29.png" alt="" /></p>
 </div>
 
 #### ● Result
@@ -43,8 +43,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28417%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28408%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28417%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28408%29.png" alt="" /></p>
 </div>
 
 #### ● Result
@@ -70,8 +70,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28403%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28429%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28403%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28429%29.png" alt="" /></p>
 </div>
 
 #### ● Result

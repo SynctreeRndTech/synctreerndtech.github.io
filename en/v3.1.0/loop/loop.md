@@ -16,8 +16,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/for_loop_1.png" alt="" /></p>
-    <p><img src="../../img/assets/for_loop_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/for_loop_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/for_loop_2.png" alt="" /></p>
 </div>
 
 #### ● \***\***Result\*\*
@@ -49,8 +49,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/loop_example_1.png" alt="" /></p>
-    <p><img src="../../img/assets/loop_example_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/loop_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/loop_example_2.png" alt="" /></p>
 </div>
 
 #### ● \***\***Result\*\*

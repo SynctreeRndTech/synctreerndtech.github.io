@@ -16,8 +16,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/crypto_encrypt_example_1.png" alt="" /></p>
-    <p><img src="../../img/assets/crypto_encrypt_example_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/crypto_encrypt_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/crypto_encrypt_example_2.png" alt="" /></p>
 </div>
 
 ### ● Result
@@ -47,8 +47,8 @@
     style="border:0 none"
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/cryto_decrypt_example_1.png" alt="" /></p>
-    <p><img src="../../img/assets/cryto_decrypt_example_2.png" alt="" /></p>
+    <p><img src="../../../img/assets/cryto_decrypt_example_1.png" alt="" /></p>
+    <p><img src="../../../img/assets/cryto_decrypt_example_2.png" alt="" /></p>
 </div>
 
 ### ● Result

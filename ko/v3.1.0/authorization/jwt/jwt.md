@@ -5,6 +5,7 @@
         JSON Web Token 발급
 
 ### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_create"
@@ -13,8 +14,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/jwt_create_example_1.png" alt="" /></p>
-    <p><img src="../../../img/assets/jwt_create_example_2.png" alt="" /></p>    
+    <p><img src="../../../../img/assets/jwt_create_example_1.png" alt="" /></p>
+    <p><img src="../../../../img/assets/jwt_create_example_2.png" alt="" /></p>    
 </div>
 
 ### ● 결과
@@ -25,7 +26,8 @@
 }
 ```
 
-##### * Secret Key 생성
+##### \* Secret Key 생성
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_secret_key"
@@ -34,10 +36,10 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/jwt_secret_key_example.png" alt="" /></p>
+    <p><img src="../../../../img/assets/jwt_secret_key_example.png" alt="" /></p>
 </div>
 
-##### * Secret Key 생성 결과
+##### \* Secret Key 생성 결과
 
 ```text
 {
@@ -49,9 +51,10 @@
 
 ### ● Jwt Token Verify
 
-        JSON Web Token 인증      
+        JSON Web Token 인증
 
 #### ● 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_verify"
@@ -60,8 +63,8 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/jwt_verify_example_1.png" alt="" /></p>
-    <p><img src="../../../img/assets/jwt_verify_example_2.png" alt="" /></p>
+    <p><img src="../../../../img/assets/jwt_verify_example_1.png" alt="" /></p>
+    <p><img src="../../../../img/assets/jwt_verify_example_2.png" alt="" /></p>
 </div>
 
 ### ● 결과
@@ -88,6 +91,7 @@
 ```
 
 #### ● JWT Client 예문
+
 <p class='comment'>Studio Copy&Paste 가능</p>
 <iframe
     src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/authorization/jwt_client"
@@ -96,9 +100,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../../img/assets/jwt_client_example_1.png" alt="" /></p>
-    <p><img src="../../../img/assets/jwt_client_example_2.png" alt="" /></p>
-    <p><img src="../../../img/assets/jwt_client_example_3.png" alt="" /></p>
+    <p><img src="../../../../img/assets/jwt_client_example_1.png" alt="" /></p>
+    <p><img src="../../../../img/assets/jwt_client_example_2.png" alt="" /></p>
+    <p><img src="../../../../img/assets/jwt_client_example_3.png" alt="" /></p>
 </div>
 
 ### ● 결과
@@ -173,5 +177,3 @@
   }
 }
 ```
-
-

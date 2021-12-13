@@ -16,7 +16,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/hash_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/hash_example.png" alt="" /></p>
 </div>
 
 #### ● Result
@@ -45,7 +45,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/hash_hmac_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/hash_hmac_example.png" alt="" /></p>
 </div>
 
 #### ● Result

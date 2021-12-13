@@ -16,9 +16,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../img/assets/image%20%28416%29.png" alt="" /></p>
-    <p><img src="../img/assets/image%20%28418%29.png" alt="" /></p>
-    <p><img src="../img/assets/image%20%28411%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28416%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28418%29.png" alt="" /></p>
+    <p><img src="../../img/assets/image%20%28411%29.png" alt="" /></p>
 </div>
 
 #### ● Result

@@ -16,7 +16,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/url_encode_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/url_encode_example.png" alt="" /></p>
 </div>
 
 #### ● 결과
@@ -45,7 +45,7 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/url_decode_example.png" alt="" /></p>
+    <p><img src="../../../img/assets/url_decode_example.png" alt="" /></p>
 </div>
 
 #### ● 결과

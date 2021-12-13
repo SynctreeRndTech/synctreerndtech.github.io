@@ -16,9 +16,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin" />
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28373%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28368%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28377%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28373%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28368%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28377%29.png" alt="" /></p>
 </div>
 
 #### ● Result
@@ -47,9 +47,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28366%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28321%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28370%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28366%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28321%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28370%29.png" alt="" /></p>
 </div>
 
 #### ● Result
@@ -78,9 +78,9 @@
     allow=""
     sandbox="allow-scripts allow-same-origin"/>
 <div class="display-pdf">
-    <p><img src="../../img/assets/image%20%28346%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28362%29.png" alt="" /></p>
-    <p><img src="../../img/assets/image%20%28329%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28346%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28362%29.png" alt="" /></p>
+    <p><img src="../../../img/assets/image%20%28329%29.png" alt="" /></p>
 </div>
 
 #### ● Result

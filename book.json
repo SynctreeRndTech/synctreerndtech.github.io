@@ -5,8 +5,9 @@
         "toggle-chapters",
         "insert-logo",
         "custom-favicon",
-        "scripts",
-        "-sharing"
+
+        "-sharing",
+        "toolbar"
     ],
     "pluginsConfig": {
         "insert-logo": {
@@ -14,16 +15,27 @@
             "style": "background: none; max-height: 32px; min-height: 32px"
         },
         "favicon": "/logo/favicon_sth_16.png",
-        "scripts": {
-            "files": ["./js/custom.js"]
-        },
-        "sharing": {
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false
+
+        "toolbar": {
+            "buttons": [
+                {
+                    "label": "Share",
+                    "icon": "synctree",
+                    "url": "https://www.synctree101.com/",
+                    "target": "_blank"
+                },
+                {
+                    "label": "download pdf",
+                    "icon": "fa fa-file-pdf-o",
+                    "url": "/SyncTree_Guide_Book_v3.1.0.pdf",
+                    "target": "_blank"
+                },
+                {
+                    "label": "naver blog",
+                    "icon": "fa fa-naver",
+                    "url": "https://blog.naver.com/PostList.naver?blogId=nntuple"
+                }
+            ]
         }
     }
 }
