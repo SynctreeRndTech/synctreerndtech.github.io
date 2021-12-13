@@ -91,7 +91,6 @@ iframe {
     display: none;
 } */
 
-/* li:has(.gitbook-link) { */
 .gitbook-link {
     display: none !important;
 }

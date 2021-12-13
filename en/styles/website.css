@@ -86,3 +86,6 @@ iframe {
     display: block;
     margin-top: 16px;
 }
+.gitbook-link {
+    display: none !important;
+}
