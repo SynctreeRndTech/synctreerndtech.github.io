@@ -64,7 +64,7 @@
 
 ### ● String Format
 
-        string formatting
+        String formatting
 
 ![](../../../img/assets/image%20%28210%29.png)
 
@@ -74,7 +74,7 @@
 
 ### ● String Charset Encode
 
-        string encoding
+        String encoding
 
 ![](../../../img/assets/image%20%28146%29.png)
 

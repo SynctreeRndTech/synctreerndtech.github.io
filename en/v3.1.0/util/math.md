@@ -2,7 +2,7 @@
 
 ### ● Math \(+\)
 
-        arithmetic operator (+, -, *, /, %)
+        Arithmetic operator (+, -, *, /, %)
 
 ![](../../../img/assets/image%20%28104%29.png)
 
@@ -37,7 +37,7 @@
 
 ### ● Math \(++\)
 
-        increment operator (++, --)
+        Increment operator (++, --)
 
 ![](../../../img/assets/image%20%28115%29.png)
 

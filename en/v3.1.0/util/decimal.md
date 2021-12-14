@@ -8,13 +8,13 @@
 
 ### ● Decimal Add
 
-       decimal addition
+       Decimal addition
 
 ![](../../../img/assets/image%20%28195%29.png)
 
 ### ● Decimal Subtract
 
-       subtract decimal
+       Subtract decimal
 
 ![](../../../img/assets/image%20%28189%29.png)
 
@@ -26,37 +26,37 @@
 
 ### ● Decimal Divide
 
-       decimal division
+       Decimal division
 
 ![](../../../img/assets/image%20%2861%29.png)
 
 ### ● Decimal Abs
 
-       decimal absolute value
+       Decimal absolute value
 
 ![](../../../img/assets/image%20%28179%29.png)
 
 ### ● Decimal Round
 
-       decimal rounding
+       Decimal rounding
 
 ![](../../../img/assets/image%20%28292%29.png)
 
 ### ● Decimal Floor
 
-      decimal round down
+      Decimal round down
 
 ![](../../../img/assets/image%20%28242%29.png)
 
 ### ● Decimal Ceil
 
-       decimal round up
+       Decimal round up
 
 ![](../../../img/assets/image%20%28298%29.png)
 
 ### ● Decimal ToString
 
-       convert to decimal string
+       Convert to decimal string
 
 ![](../../../img/assets/image%20%28287%29.png)
 
@@ -68,6 +68,6 @@
 
 ### ● Decimal ToFloat
 
-       decimal floating point conversion
+       Decimal floating point conversion
 
 ![](../../../img/assets/image%20%28264%29.png)

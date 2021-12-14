@@ -1,7 +1,8 @@
-# Verify
+## Verify
 
-## ● Jwt Registered Claims
+### ● Jwt Registered Claims
 
-        JSON Web Token 레지스터 클레임 \(Register claim\)
-
+        등록된 클레임(Registered Claims) 검증
+        
 ![](../../../../../img/assets/image%20%28320%29.png)
+

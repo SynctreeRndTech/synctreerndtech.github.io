@@ -14,19 +14,19 @@
 
 ### ● DynamoDB Get
 
-        key lookup
+        Key lookup
 
 ![](../../../img/assets/image%20%28281%29.png)
 
 ### ● DynamoDB Put
 
-        store data in key
+        Store data in key
 
 ![](../../../img/assets/image%20%28276%29.png)
 
 ### ● DynamoDB Update
 
-        update data in key
+        Update data in key
 
 ![](../../../img/assets/image%20%28301%29.png)
 

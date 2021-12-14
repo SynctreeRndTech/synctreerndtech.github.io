@@ -10,7 +10,7 @@
 
 ![](../../../img/assets/image%20%2872%29.png)
 
-### ● \***\*Get Array Variable **Example\*\*
+### ● Get Array Variable Example
 
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
@@ -24,7 +24,7 @@
     <p><img src="../../../img/assets/get_arraylist_example_2.png" alt="" /></p>
 </div>
 
-### ● \***\*Get Array Variable **Result\*\*
+### ● Get Array Variable Result
 
 ```text
 {

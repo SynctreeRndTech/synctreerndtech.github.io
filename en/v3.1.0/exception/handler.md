@@ -2,7 +2,7 @@
 
 ### ● Exception Handler
 
-        exception handling
+        Exception handling
 
 ![](../../../img/assets/image%20%28231%29.png)
 

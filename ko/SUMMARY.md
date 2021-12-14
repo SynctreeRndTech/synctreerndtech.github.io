@@ -63,7 +63,7 @@
         -   [JWT](v3.1.0/authorization/jwt/README.md)
             -   [JWK](v3.1.0/authorization/jwt/jwk.md)
             -   [Header](v3.1.0/authorization/jwt/header.md)
-            -   [Payload](v3.1.0/authorization/jwt/payload.md)
+            -   [Payload](v3.1.0/authorization/jwt/payload/generate.md)
                 -   [Generate](v3.1.0/authorization/jwt/payload/generate.md)
                 -   [Verify](v3.1.0/authorization/jwt/payload/verify.md)
         -   [OAuth 2.0](v3.1.0/authorization/oauth/2.0.md)

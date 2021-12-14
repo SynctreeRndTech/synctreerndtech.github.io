@@ -10,7 +10,7 @@
 
 ![](../../../img/assets/image%20%28163%29.png)
 
-### ● \***\*ArrayList **Example\*\*
+### ● ArrayList Example
 
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
@@ -24,7 +24,7 @@
     <p><img src="../../../img/assets/arraylist_example_2.png" alt="" /></p>
 </div>
 
-### ● \***\*ArrayList **Result\*\*
+### ● ArrayList Result
 
 ```text
 {

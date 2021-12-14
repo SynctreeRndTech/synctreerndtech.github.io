@@ -18,12 +18,12 @@
 
 ### ● Transaction Commit
 
-        transaction commit statement
+        Transaction commit statement
 
 ![](../../../../img/assets/image%20%28245%29.png)
 
 ### ● Transaction Rollback
 
-        transaction rollback statement
+        Transaction rollback statement
 
 ![](../../../../img/assets/image%20%28263%29.png)

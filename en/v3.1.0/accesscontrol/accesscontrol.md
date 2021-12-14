@@ -2,7 +2,7 @@
 
 ### ● RateLimit
 
-        Limit Control of Request
+        Limiting request traffic
 
 ![](../../../img/assets/image%20%28220%29.png)
 

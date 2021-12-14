@@ -14,7 +14,7 @@
 
 ## ● wsdl
 
-        wsdl \(xml\) URL
+       WSDL (xml) URL
        reference : [https://www.php.net/manual/en/soapclient.construct.php](
 
 https://www.php.net/manual/en/soapclient.construct.php)

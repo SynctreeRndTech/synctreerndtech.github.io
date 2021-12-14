@@ -14,7 +14,7 @@
 
 ### ● wsdl
 
-        wsdl (xml) URL
+        WSDL (xml) URL
 
 참고 : https://www.php.net/manual/en/soapclient.construct.php
 

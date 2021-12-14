@@ -2,7 +2,7 @@
 
 ### ● Try Catch
 
-        used for exception handling
+        Used for exception handling
         Specifying a response when an exception occurs
 
 ![](../../../img/assets/image%20%28297%29.png)

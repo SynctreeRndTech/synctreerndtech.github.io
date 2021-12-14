@@ -6,7 +6,7 @@
 
     In this example, we will practice the most basic step together by creating Apps and BizUnit.
 
-### **Create Apps**
+### Create Apps
 
 ● Click the 'Make App' button to create the App.
 
@@ -20,7 +20,7 @@
 
 ![](../assets/image%20%2820%29.png)
 
-### **Create BizUnit**
+### Create BizUnit
 
 ● Tutorial App is also created.
 

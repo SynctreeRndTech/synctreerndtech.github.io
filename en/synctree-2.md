@@ -4,7 +4,7 @@ description:
 
 ## SyncTree Case Study
 
-Customers in a variety of industries are using SyncTree
+    Customers in a variety of industries are using SyncTree
 
 ### Financial industry major cases
 

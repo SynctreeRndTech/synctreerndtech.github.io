@@ -14,7 +14,7 @@
 
 ### ● Redis Get
 
-        key lookup
+        Key lookup
 
 ![](../../../img/assets/image%20%28307%29.png)
 

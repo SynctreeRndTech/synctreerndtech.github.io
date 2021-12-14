@@ -1,6 +1,6 @@
 ## Add Array Variable
 
-### ● **Add Array Variable**
+### ● Add Array Variable
 
         Add a value to an array variable
 
@@ -10,7 +10,7 @@
 
 ![](../../../img/assets/image%20%28208%29.png)
 
-### ● \***\*Add Array Variable **Example\*\*
+### ● Add Array Variable Example
 
 <p class='comment'>Studio Copy&Paste Available</p>
 <iframe
@@ -24,7 +24,7 @@
     <p><img src="../../../img/assets/add_arraylist_example_2.png" alt="" /></p>
 </div>
 
-### ● \***\*Add Array Variable **Result\*\*
+### ● Add Array Variable Result
 
 ```text
 {

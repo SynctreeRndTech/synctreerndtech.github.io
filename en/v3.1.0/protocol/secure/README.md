@@ -8,6 +8,6 @@
 
 ## ● Url
 
-        \(end-point\) URL input box
+        (End-Point) URL input box
 
 ![](../../../../img/assets/image%20%2849%29.png)
