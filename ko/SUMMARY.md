@@ -2,7 +2,16 @@
 
 -   [SyncTree?](README.md)
 -   [SyncTree 도입사례](synctree-2.md)
--   [How to use SyncTree](synctree-3.md)
+-   [How to use SyncTree](how-to-use/intro.md)
+    -   [블록 코딩](how-to-use/block-coding.md)
+    -   [빌드, 테스트, 실행하기](how-to-use/excution.md)
+    -   [가입하기](how-to-use/register.md)
+    -   [API 생성](how-to-use/api-create.md)
+    -   [API 편집](how-to-use/api-edit.md)
+    -   [API 테스트](how-to-use/api-test.md)
+    -   [API 푸시하기 (단계별 Revision)](how-to-use/api-push.md)
+    -   [포탈 생성 및 API 등록](how-to-use/create-portal.md)
+    -   [포탈 가입 및 API 확인](how-to-use/confirm-portal.md)
 -   [Hello! SyncTree](synctree-4.md)
 
 ## SyncTree NBlock <a id="synctree"></a>

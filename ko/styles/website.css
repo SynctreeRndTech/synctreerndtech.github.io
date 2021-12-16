@@ -94,3 +94,29 @@ iframe {
 .gitbook-link {
     display: none !important;
 }
+
+.img-container {
+    position: relative;
+    margin-top: 30px;
+}
+.img-container > span {
+    position: absolute;
+    color: #fff;
+    background-color: red;
+    opacity: 0.5;
+    padding: 6px 15px;
+    border-radius: 20px;
+}
+
+.abs {
+    position: absolute;
+}
+
+.arrow {
+    color: #fff;
+    font-size: 27px;
+}
+
+.center {
+    text-align: center;
+}
