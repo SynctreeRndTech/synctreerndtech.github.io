@@ -1,13 +1,6 @@
----
-description: 가입이나 로그인 없이 플레이그라운드에서 SyncTree를 체험해 보세요.
----
+## 싱크트리로 개발, 배포, 테스트까지 한 곳에서 한 번에!
 
-## 싱크트리 사용법
+-   아주 쉬운 API 생성
+-   구글, 유튜브, 네이버 API를 활용하는 방법
 
-### STEP 1: 싱크트리 플레이그라운드 체험하기 (Hello SyncTree 만들기)
-
-#### STEP 1-1
-
-[싱크트리 플레이그라운드](https://playground.synctreestudio.com/#/) 내 Try ‘Hello,SyncTree’ 페이지로 이동합니다.
-
-![](../../img/howtouse/step1-1.png)
+아래 두 단계만 거치면 여러분도 싱크트리로 API를 개발 할 수 있어요!

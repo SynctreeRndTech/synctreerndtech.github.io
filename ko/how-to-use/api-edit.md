@@ -24,7 +24,7 @@
 #### STEP 2-7
 
 1. 아래 Response Context의 body의 두번째 Document Pair에서 value에 붙어있는 string을 제거하고,
-2. Variable에서 ‘Get string’을 가져와 붙인다. 그리고 string에 ‘result’를 넣는다.
+2. Variable에서 ‘Get string’을 가져와 붙인다. 그리고 string에 ‘result’를 넣습니다.
 
 <div class='img-container'>
     <span style='top: -36px;left: 0px;'>1</span>

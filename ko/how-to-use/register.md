@@ -1,4 +1,4 @@
-## 싱크트리 사용법 따라하기!
+## SyncTree 사용법 따라하기!
 
 ### STEP 2: SyncTree Studio 가입 후 ‘나만의 API’ 만들어보기
 

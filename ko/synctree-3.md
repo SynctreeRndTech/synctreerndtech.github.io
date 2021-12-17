@@ -2,13 +2,13 @@
 description: 가입이나 로그인 없이 플레이그라운드에서 SyncTree를 체험해 보세요.
 ---
 
-## 싱크트리 사용법
+## SyncTree 사용법
 
-### STEP 1: 싱크트리 플레이그라운드 체험하기 (Hello SyncTree 만들기)
+### STEP 1: SyncTree 플레이그라운드 체험하기 (Hello SyncTree 만들기)
 
 #### STEP 1-1
 
-[싱크트리 플레이그라운드](https://playground.synctreestudio.com/#/) 내 Try ‘Hello,SyncTree’ 페이지로 이동합니다.
+[SyncTree 플레이그라운드](https://playground.synctreestudio.com/#/) 내 Try ‘Hello,SyncTree’ 페이지로 이동합니다.
 
 ![](../img/howtouse/step1-1.png)
 
@@ -34,12 +34,12 @@ string에 ‘GreetingMessage’를 씁니다.
 1. 우측 상단의 ‘세이브 버튼’을 눌러 저장하고 ‘Build Bizunit’을 눌러 빌드한 뒤, 세이브 버튼 좌측에 ‘Test’ 버튼이
    활성화되면 눌러줍니다.
 2. 이후, 화면이 열리면 ‘Run’ 버튼을 눌러줍니다. 드디어, Hello,SyncTree!가 실행되었습니다!
-   본격적인 API 개발을 원하시면 다음 단계를 통해 싱크트리 스튜디오에 가입하고 싱크트리 스튜디오를 활용하세요.
+   본격적인 API 개발을 원하시면 다음 단계를 통해 SyncTree 스튜디오에 가입하고 SyncTree 스튜디오를 활용하세요.
 
 ![](../img/howtouse/step1-4-1.png)
 ![](../img/howtouse/step1-4-2.png)
 
-## 싱크트리 사용법 따라하기!
+## SyncTree 사용법 따라하기!
 
 ### STEP 2: SyncTree Studio 가입 후 ‘나만의 API’ 만들어보기
 

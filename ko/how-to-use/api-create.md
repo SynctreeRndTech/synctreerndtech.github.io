@@ -27,8 +27,8 @@
 
 #### STEP 2-5
 
-1. App 내에서 우측 끝의 화살표 버튼을 누름
-2. 이후, Revision: Dev 박스의 우측 하단 화살표 버튼을 누름
+1. App 내에서 우측 끝의 화살표 버튼을 누릅니다.
+2. 이후, Revision: Dev 박스의 우측 하단 화살표 버튼을 누릅니다.
 
 <div class='img-container'>
     <span style='top: 65px;right: 5px;'>1</span>

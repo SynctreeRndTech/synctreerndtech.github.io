@@ -7,7 +7,7 @@
 
 <div class='img-container' style='text-align: right;'>
      <span style='top: 200px;left: 55px;'>1</span>
-     <span style='top: 84px;left: 114px;'>2</span>
+     <span style='bottom: 84px;right: 114px;'>2</span>
     <img src='../../img/howtouse/step2-10-1.png' />
     <img src='../../img/howtouse/step2-10-2.png' />
 </div>
@@ -20,7 +20,7 @@
 <div class='img-container'>
      <span style='top: 50px;left: 0px;'>1</span>
      <span style='top: 0px;right: 90px;'>2</span>
-     <span style='top: 73px;left: 129px;'>3</span>
+     <span style='bottom: 73px;left: 129px;'>3</span>
     <img src='../../img/howtouse/step2-11-1.png' style='height: 224px;' />
     <img src='../../img/howtouse/step2-11-2.png'  style='height: 224px;' />
     <img src='../../img/howtouse/step2-11-3.png' />
