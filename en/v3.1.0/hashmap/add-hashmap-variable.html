@@ -1,0 +1,1493 @@
+
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Add HashMap Variable · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-diy/diy.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-toggle-chapters/toggle.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-insert-logo/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="remove-hashmap-variable.html" />
+    
+    
+    <link rel="prev" href="get-hashmap-variable.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../">
+            
+                <a href="../../">
+            
+                    
+                    SyncTree?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../../how-to-use/intro.html">
+            
+                <a href="../../how-to-use/intro.html">
+            
+                    
+                    How to use SyncTree
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../../how-to-use/playground.html">
+            
+                <a href="../../how-to-use/playground.html">
+            
+                    
+                    Play ground
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../../how-to-use/block-coding.html">
+            
+                <a href="../../how-to-use/block-coding.html">
+            
+                    
+                    Block coding
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="../../how-to-use/excution.html">
+            
+                <a href="../../how-to-use/excution.html">
+            
+                    
+                    Build, Test, and Execution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="../../how-to-use/studio.html">
+            
+                <a href="../../how-to-use/studio.html">
+            
+                    
+                    Studio
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="../../how-to-use/register.html">
+            
+                <a href="../../how-to-use/register.html">
+            
+                    
+                    Registration
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="../../how-to-use/api-create.html">
+            
+                <a href="../../how-to-use/api-create.html">
+            
+                    
+                    API Creation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.7" data-path="../../how-to-use/api-edit.html">
+            
+                <a href="../../how-to-use/api-edit.html">
+            
+                    
+                    API Editing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.8" data-path="../../how-to-use/api-test.html">
+            
+                <a href="../../how-to-use/api-test.html">
+            
+                    
+                    API Testing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.9" data-path="../../how-to-use/api-push.html">
+            
+                <a href="../../how-to-use/api-push.html">
+            
+                    
+                    Push API (Revision per step)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.10" data-path="../../how-to-use/create-portal.html">
+            
+                <a href="../../how-to-use/create-portal.html">
+            
+                    
+                    Portal Creation and API Registration
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.11" data-path="../../how-to-use/confirm-portal.html">
+            
+                <a href="../../how-to-use/confirm-portal.html">
+            
+                    
+                    Register Portal and API Confirmation
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../../synctree-2.html">
+            
+                <a href="../../synctree-2.html">
+            
+                    
+                    SyncTree References
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../../synctree-4.html">
+            
+                <a href="../../synctree-4.html">
+            
+                    
+                    Hello! SyncTree
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">SyncTree NBlock</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../primitive/primitive.html">
+            
+                <a href="../primitive/primitive.html">
+            
+                    
+                    v3.1.0
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1" data-path="../primitive/primitive.html">
+            
+                <a href="../primitive/primitive.html">
+            
+                    
+                    Primitive
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2" data-path="../variable/variable.html">
+            
+                <a href="../variable/variable.html">
+            
+                    
+                    Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3" data-path="hashmap.html">
+            
+                <a href="hashmap.html">
+            
+                    
+                    HashMap
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.3.1" data-path="get-hashmap-variable.html">
+            
+                <a href="get-hashmap-variable.html">
+            
+                    
+                    Get HashMap Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="2.1.3.2" data-path="add-hashmap-variable.html">
+            
+                <a href="add-hashmap-variable.html">
+            
+                    
+                    Add HashMap Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.3" data-path="remove-hashmap-variable.html">
+            
+                <a href="remove-hashmap-variable.html">
+            
+                    
+                    Remove HashMap Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.4" data-path="pair.html">
+            
+                <a href="pair.html">
+            
+                    
+                    Pair
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4" data-path="../arraylist/arraylist.html">
+            
+                <a href="../arraylist/arraylist.html">
+            
+                    
+                    ArrayList
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.4.1" data-path="../arraylist/get-array-variable.html">
+            
+                <a href="../arraylist/get-array-variable.html">
+            
+                    
+                    Get Array Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4.2" data-path="../arraylist/add-array-variable.html">
+            
+                <a href="../arraylist/add-array-variable.html">
+            
+                    
+                    Add Array Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4.3" data-path="../arraylist/remove-array-variable.html">
+            
+                <a href="../arraylist/remove-array-variable.html">
+            
+                    
+                    Remove Array Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5" data-path="../protocol/protocol.html">
+            
+                <a href="../protocol/protocol.html">
+            
+                    
+                    Protocol
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.5.1" data-path="../protocol/https/https.html">
+            
+                <a href="../protocol/https/https.html">
+            
+                    
+                    Https
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.5.1.1" data-path="../protocol/https/option.html">
+            
+                <a href="../protocol/https/option.html">
+            
+                    
+                    Option
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.2" data-path="../protocol/secure/">
+            
+                <a href="../protocol/secure/">
+            
+                    
+                    Secure
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.5.2.1" data-path="../protocol/secure/option.html">
+            
+                <a href="../protocol/secure/option.html">
+            
+                    
+                    Option
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.3" data-path="../protocol/soap/">
+            
+                <a href="../protocol/soap/">
+            
+                    
+                    Soap
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.5.3.1" data-path="../protocol/soap/option.html">
+            
+                <a href="../protocol/soap/option.html">
+            
+                    
+                    Option
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6" data-path="../operator/">
+            
+                <a href="../operator/">
+            
+                    
+                    Operator
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.6.1" data-path="../operator/transfer.html">
+            
+                <a href="../operator/transfer.html">
+            
+                    
+                    Transfer
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.2" data-path="../operator/response.html">
+            
+                <a href="../operator/response.html">
+            
+                    
+                    Response
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.3" data-path="../operator/context.html">
+            
+                <a href="../operator/context.html">
+            
+                    
+                    Context
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.7" data-path="../logic/logic.html">
+            
+                <a href="../logic/logic.html">
+            
+                    
+                    Logic
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.7.1" data-path="../logic/statement.html">
+            
+                <a href="../logic/statement.html">
+            
+                    
+                    Statement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.7.2" data-path="../logic/expression.html">
+            
+                <a href="../logic/expression.html">
+            
+                    
+                    Expression
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.8" data-path="../loop/loop.html">
+            
+                <a href="../loop/loop.html">
+            
+                    
+                    Loop
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9" data-path="../util/math.html">
+            
+                <a href="../util/math.html">
+            
+                    
+                    Util
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.9.1" data-path="../util/math.html">
+            
+                <a href="../util/math.html">
+            
+                    
+                    Math
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.2" data-path="../util/string.html">
+            
+                <a href="../util/string.html">
+            
+                    
+                    String
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.3" data-path="../util/array.html">
+            
+                <a href="../util/array.html">
+            
+                    
+                    Array
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.4" data-path="../util/datetime.html">
+            
+                <a href="../util/datetime.html">
+            
+                    
+                    Datetime
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.5" data-path="../util/json.html">
+            
+                <a href="../util/json.html">
+            
+                    
+                    Json
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.6" data-path="../util/xml.html">
+            
+                <a href="../util/xml.html">
+            
+                    
+                    Xml
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.7" data-path="../util/hash.html">
+            
+                <a href="../util/hash.html">
+            
+                    
+                    Hash
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.8" data-path="../util/base64.html">
+            
+                <a href="../util/base64.html">
+            
+                    
+                    Base64
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.9" data-path="../util/url.html">
+            
+                <a href="../util/url.html">
+            
+                    
+                    Url
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.10" data-path="../util/cryto.html">
+            
+                <a href="../util/cryto.html">
+            
+                    
+                    Crypto
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.11" data-path="../util/convert.html">
+            
+                <a href="../util/convert.html">
+            
+                    
+                    Convert
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.12" data-path="../util/handle.html">
+            
+                <a href="../util/handle.html">
+            
+                    
+                    Handle
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.13" data-path="../util/decimal.html">
+            
+                <a href="../util/decimal.html">
+            
+                    
+                    Decimal
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.10" data-path="../log/log.html">
+            
+                <a href="../log/log.html">
+            
+                    
+                    Log
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.11" data-path="../helper/helper.html">
+            
+                <a href="../helper/helper.html">
+            
+                    
+                    Helper
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.12" data-path="../storage/storage.html">
+            
+                <a href="../storage/storage.html">
+            
+                    
+                    Storage
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.12.1" data-path="../storage/mysql/mysql.html">
+            
+                <a href="../storage/mysql/mysql.html">
+            
+                    
+                    MySQL
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.12.1.1" data-path="../storage/mysql/query.html">
+            
+                <a href="../storage/mysql/query.html">
+            
+                    
+                    Query
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.12.1.2" data-path="../storage/mysql/procedure.html">
+            
+                <a href="../storage/mysql/procedure.html">
+            
+                    
+                    Procedure
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.12.2" data-path="../storage/oracle/oracle.html">
+            
+                <a href="../storage/oracle/oracle.html">
+            
+                    
+                    Oracle
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.12.2.1" data-path="../storage/oracle/query.html">
+            
+                <a href="../storage/oracle/query.html">
+            
+                    
+                    Query
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.12.2.2" data-path="../storage/oracle/procedure.html">
+            
+                <a href="../storage/oracle/procedure.html">
+            
+                    
+                    Procedure
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.12.3" data-path="../storage/dynamodb.html">
+            
+                <a href="../storage/dynamodb.html">
+            
+                    
+                    DynamoDB
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.12.4" data-path="../storage/redis.html">
+            
+                <a href="../storage/redis.html">
+            
+                    
+                    Redis
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.13" data-path="../authorization/authorization.html">
+            
+                <a href="../authorization/authorization.html">
+            
+                    
+                    Authorization
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.13.1" data-path="../authorization/jwt/jwt.html">
+            
+                <a href="../authorization/jwt/jwt.html">
+            
+                    
+                    JWT
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.13.1.1" data-path="../authorization/jwt/jwk.html">
+            
+                <a href="../authorization/jwt/jwk.html">
+            
+                    
+                    JWK
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.13.1.2" data-path="../authorization/jwt/header.html">
+            
+                <a href="../authorization/jwt/header.html">
+            
+                    
+                    Header
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.13.1.3" data-path="../authorization/jwt/payload/generate.html">
+            
+                <a href="../authorization/jwt/payload/generate.html">
+            
+                    
+                    Payload
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.13.1.3.1" data-path="../authorization/jwt/payload/generate.html">
+            
+                <a href="../authorization/jwt/payload/generate.html">
+            
+                    
+                    Generate
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.13.1.3.2" data-path="../authorization/jwt/payload/verify.html">
+            
+                <a href="../authorization/jwt/payload/verify.html">
+            
+                    
+                    Verify
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.13.2" data-path="../authorization/oauth/2.0.html">
+            
+                <a href="../authorization/oauth/2.0.html">
+            
+                    
+                    OAuth 2.0
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.13.3" data-path="../authorization/saml/saml.html">
+            
+                <a href="../authorization/saml/saml.html">
+            
+                    
+                    SAML 2.0
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.13.4" data-path="../authorization/simplekey.html">
+            
+                <a href="../authorization/simplekey.html">
+            
+                    
+                    SimpleKey
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.14" data-path="../accesscontrol/accesscontrol.html">
+            
+                <a href="../accesscontrol/accesscontrol.html">
+            
+                    
+                    AccessControl
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.14.1" data-path="../accesscontrol/ratelimit.html">
+            
+                <a href="../accesscontrol/ratelimit.html">
+            
+                    
+                    RateLimit
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.15" data-path="../analytics/analytics.html">
+            
+                <a href="../analytics/analytics.html">
+            
+                    
+                    Analytics
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.16" data-path="../exception/exception.html">
+            
+                <a href="../exception/exception.html">
+            
+                    
+                    Exception
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.16.1" data-path="../exception/handler.html">
+            
+                <a href="../exception/handler.html">
+            
+                    
+                    Handler
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Block Coding Guide</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="../../block-coding-guide/db-database.html">
+            
+                <a href="../../block-coding-guide/db-database.html">
+            
+                    
+                    Storage(DBStorage)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="../../block-coding-guide/query-manager.html">
+            
+                <a href="../../block-coding-guide/query-manager.html">
+            
+                    
+                    Storage(QueryManager)
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../.." >Add HashMap Variable</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="add-hashmap-variable">Add HashMap Variable</h2>
+<h3 id="&#x25CF;-add-hashmap-variable">&#x25CF; Add HashMap Variable</h3>
+<pre><code>    Add key and value to HashMap
+</code></pre><p><img src="../../../img/assets/image%20%2812%29.png" alt=""></p>
+<pre><code>    You can add or delete items by clicking the settings button
+</code></pre><p><img src="../../../img/assets/image%20%28185%29.png" alt=""></p>
+<h3 id="&#x25CF;-add-hashmap-example">&#x25CF; *<strong>*Add HashMap </strong>Example**</h3>
+<p></p><p class="comment">Studio Copy&amp;Paste Available</p><p></p>
+<p><iframe src="https://d1sxhpvag16wqc.cloudfront.net/v3.1.0/hashmap/add_hashmap" width="100%" height="800px" allow="" sandbox="allow-scripts allow-same-origin"></iframe></p>
+<div class="display-pdf">
+    <p><img src="../../../img/assets/add_hashmap_example_1.png" alt=""></p>
+    <p><img src="../../../img/assets/add_hashmap_example_2.png" alt=""></p>
+</div>
+
+<h3 id="&#x25CF;-add-hashmap-result">&#x25CF; *<strong>*Add HashMap </strong>Result**</h3>
+<pre><code class="lang-text">{
+  &quot;result&quot;: {
+    &quot;mainKey&quot;: {
+      &quot;main&quot;: {
+        &quot;originKey&quot;: &quot;originVal&quot;,
+        &quot;indepthKey&quot;: &quot;indepthVal&quot;
+      }
+    },
+    &quot;subKey&quot;: {
+      &quot;sub&quot;: {
+        &quot;getKey&quot;: &quot;getVal&quot;
+      }
+    }
+  }
+}
+</code></pre>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="get-hashmap-variable.html" class="navigation navigation-prev " aria-label="Previous page: Get HashMap Variable">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="remove-hashmap-variable.html" class="navigation navigation-next " aria-label="Next page: Remove HashMap Variable">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Add HashMap Variable","level":"2.1.3.2","depth":3,"next":{"title":"Remove HashMap Variable","level":"2.1.3.3","depth":3,"path":"v3.1.0/hashmap/remove-hashmap-variable.md","ref":"v3.1.0/hashmap/remove-hashmap-variable.md","articles":[]},"previous":{"title":"Get HashMap Variable","level":"2.1.3.1","depth":3,"path":"v3.1.0/hashmap/get-hashmap-variable.md","ref":"v3.1.0/hashmap/get-hashmap-variable.md","articles":[]},"dir":"ltr"},"config":{"plugins":["toolbar","collapsible-menu","toggle-chapters","insert-logo","custom-favicon","-sharing","toolbar"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"collapsible-menu":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"diy":{},"highlight":{},"favicon":"/logo/favicon_sth_16.png","custom-favicon":{},"toolbar":{"buttons":[{"label":"Share","icon":"synctree","url":"https://www.synctree101.com/","target":"_blank"},{"label":"download pdf","icon":"fa fa-file-pdf-o","url":"/en/SyncTree_Guide_Book_v3.1.0.pdf","target":"_blank"},{"label":"naver blog","icon":"fa fa-naver","url":"https://blog.naver.com/PostList.naver?blogId=nntuple"}]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none; max-height: 32px; min-height: 32px","url":"/logo/LOGO_Synctree_GNB_M.svg"}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"en","gitbook":"*"},"file":{"path":"v3.1.0/hashmap/add-hashmap-variable.md","mtime":"2021-12-13T08:41:01.480Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-12-21T07:19:15.243Z"},"basePath":"../..","book":{"language":"en"}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../../gitbook/gitbook.js"></script>
+    <script src="../../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-collapsible-menu/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-toggle-chapters/toggle.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-insert-logo/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-toolbar/buttons.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
