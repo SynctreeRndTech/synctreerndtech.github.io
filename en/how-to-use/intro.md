@@ -3,4 +3,4 @@
 -   Easy API creation
 -   How to utilize the API for Google, Youtube, and Naver.
 
-You can develop API with SyncTree through the 2 steps below!
+You can develop API with SyncTree through the next 2 steps!

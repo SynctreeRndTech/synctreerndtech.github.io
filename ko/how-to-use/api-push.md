@@ -3,7 +3,7 @@
 #### STEP 2-9
 
 1. 다시 Orchestra > Apps > 자신의 BizUnit으로 와서 ‘Change Revision Status’ 눌러 상태를 ‘ACTIVE’로 바꿔 줍니다.
-2. 이후, ‘Push/Copy Revision’에서 ‘Push to Stage’를 눌러 Revision Name와 Comment를 작성하고 배포합니다.
+2. 이후, ‘Push/Copy Revision’에서 ‘Push to Stage’를 눌러 Revision Name과 Comment를 작성하고 배포합니다.
 
 <div class='img-container' style='text-align: right;'>
      <span style='top: 200px;left: 55px;'>1</span>
