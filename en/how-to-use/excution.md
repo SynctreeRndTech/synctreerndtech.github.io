@@ -6,7 +6,7 @@
 
 <div class='img-container'>
     <span style='top: -36px;left: 0px;'>1</span>
-    <span style='top: -36px;left: 340px;'>2</span>
     <img src='../../img/howtouse/step1-4-1.png' style='margin-right: 20px;vertical-align: top;' />
+    <span style='top: -36px;left: 340px;'>2</span>
     <img src='../../img/howtouse/step1-4-2.png' style=''/>
 </div>

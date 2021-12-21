@@ -7,7 +7,7 @@
 
 <div class='img-container center'>
     <span style='top: 145px;left: 50%;margin-left: -20px;'>1</span>
-    <span style='bottom: 225px;left: 15px;'>2</span>
     <img src='../../img/howtouse/step2-9-1.png'  />
+    <span style='bottom: 225px;left: 15px;'>2</span>
     <img src='../../img/howtouse/step2-14-2.png'  />
  </div>

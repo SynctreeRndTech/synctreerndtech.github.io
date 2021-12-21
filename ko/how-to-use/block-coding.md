@@ -4,10 +4,10 @@
 2. 이후, Variable에서 Create 블럭 아래의 ‘Set to’ 블럭을 선택하여 ‘Create’ 아래에 넣고 Set 옆의 string에 GreetingMessage를 씁니다.
 
 <div class='img-container'>
-     <span style='top: -36px;left: 0px;'>1</span>
-     <span style='top: -36px;left: 310px;'>2</span>
-     <img src='../../img/howtouse/step1-2-1.png' style='height:355px;' />
-     <img src='../../img/howtouse/step1-2-2.png' style='height:355px;'/>
+    <span style='top: -36px;left: 0px;'>1</span>
+    <img src='../../img/howtouse/step1-2-1.png' style='height:355px;' />
+    <span style='top: -36px;left: 310px;'>2</span>
+    <img src='../../img/howtouse/step1-2-2.png' style='height:355px;'/>
  </div>
 
 #### STEP 1-2

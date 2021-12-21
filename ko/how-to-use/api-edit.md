@@ -16,10 +16,10 @@ Create과 Set블럭의 string의 각 변수값에 ‘input’을 쓰고 to블럭
 
 <div class='img-container'>
     <span style='top: -34px;left: 0px;'>1</span>
-    <span style='top: -34px;left: 223px;'>2</span>
-    <span style='top: 135px;left: -22px;'>3</span>
     <img src='../../img/howtouse/step2-6-1.png' style='margin-right: 20px;vertical-align: top;' />
+    <span style='top: -34px;left: 223px;'>2</span>
     <img src='../../img/howtouse/step2-6-2.png' style='right: -61px;top: 113px;'/>
+    <span style='top: 135px;left: -22px;'>3</span>
     <img src='../../img/howtouse/step2-6-3.png' style='right: -61px;top: 113px;'/>
 </div>
 
@@ -30,7 +30,7 @@ Create과 Set블럭의 string의 각 변수값에 ‘input’을 쓰고 to블럭
 
 <div class='img-container'>
     <span style='top: -36px;left: 0px;'>1</span>
-    <span style='top: -36px;left: 309px;'>2</span>
     <img src='../../img/howtouse/step2-7-1.png' style='height: 300px;' />
+    <span style='top: -36px;left: 309px;'>2</span>
     <img src='../../img/howtouse/step2-7-2.png' style='height: 300px;' />
 </div>

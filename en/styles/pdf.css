@@ -5,3 +5,10 @@ iframe {
 .display-pdf {
     display: block;
 }
+.arrow {
+    display: none;
+}
+
+.center {
+    text-align: center;
+}

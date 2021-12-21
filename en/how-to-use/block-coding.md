@@ -5,8 +5,8 @@
 
 <div class='img-container'>
      <span style='top: -36px;left: 0px;'>1</span>
-     <span style='top: -36px;left: 310px;'>2</span>
      <img src='../../img/howtouse/step1-2-1.png' style='height:355px;' />
+     <span style='top: -36px;left: 310px;'>2</span>
      <img src='../../img/howtouse/step1-2-2.png' style='height:355px;'/>
  </div>
 

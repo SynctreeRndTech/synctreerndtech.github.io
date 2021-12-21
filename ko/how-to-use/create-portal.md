@@ -7,12 +7,12 @@
 3. 그리고 하단의 API Resources를 눌러서 만들어놓은 BizUnit을 선택합니다.
 
 <div class='img-container'>
-     <span style='top: 100px;left: 15px;'>1</span>
-     <span style='top: 225px;left: 15px;'>2</span>
-     <span style='bottom: 140px;left: 270px;'>3</span>
+    <span style='top: 100px;left: 15px;'>1</span>
     <img src='../../img/howtouse/step2-13-1.png' style='height: 235px;' />
+    <span style='top: 225px;left: 15px;'>2</span>
     <img src='../../img/howtouse/step2-13-2.png' style='height: 235px;' />
     <em class='abs arrow' style='bottom: 87px;left: 87px;'>➡</em>
+    <span style='bottom: 140px;left: 270px;'>3</span>
     <img src='../../img/howtouse/step2-13-3.png' class='abs' style='bottom:0; left:120px;' />
 </div>
 
