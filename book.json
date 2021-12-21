@@ -13,27 +13,6 @@
             "url": "/logo/LOGO_Synctree_GNB_M.svg",
             "style": "background: none; max-height: 32px; min-height: 32px"
         },
-        "favicon": "/logo/favicon_sth_16.png",
-        "toolbar": {
-            "buttons": [
-                {
-                    "label": "Share",
-                    "icon": "synctree",
-                    "url": "https://www.synctree101.com/",
-                    "target": "_blank"
-                },
-                {
-                    "label": "download pdf",
-                    "icon": "fa fa-file-pdf-o",
-                    "url": "/SyncTree_Guide_Book_v3.1.0.pdf",
-                    "target": "_blank"
-                },
-                {
-                    "label": "naver blog",
-                    "icon": "fa fa-naver",
-                    "url": "https://blog.naver.com/PostList.naver?blogId=nntuple"
-                }
-            ]
-        }
+        "favicon": "/logo/favicon_sth_16.png"
     }
 }
