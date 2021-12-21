@@ -45,7 +45,7 @@ Microservices are essential to success in the digital age, and you need microser
 
 <p class='comment'><a href="https://synctree101.com/microService.html" target="_blank">See More</p>
 
-### 기능
+### Function
 
 ![](../assets/image%20%2833%29.png)
 
