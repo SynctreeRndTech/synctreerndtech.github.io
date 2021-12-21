@@ -1,10 +1,10 @@
-## 포탈 생성 및 API 등록
+## Portal Creation and API Registration
 
 #### STEP 2-12
 
-1. Manage API로 이동 후 Create API 버튼을 눌러서 이동합니다.
-2. 이후, API Details 작성한 뒤 Create 버튼을 클릭합니다.
-3. 그리고 하단의 API Resources를 눌러서 만들어놓은 BizUnit을 선택합니다.
+1. Click the 'Create API' button on Manage API.
+2. Click the 'Create' button after fill in the 'API Details'.
+3. Choose the 'BizUnit' you created after click the 'API Resources' button on the bottom.
 
 <div class='img-container'>
      <span style='top: 100px;left: 15px;'>1</span>
@@ -18,6 +18,6 @@
 
 #### STEP 2-13
 
-1. Access Portal로 이동하여 Portal link를 눌러 Portal로 이동합니다.
+1. Move to Access Portal and click 'Portal link' to move to Portal.
 
 ![](../../img/howtouse/step2-14-1.png)

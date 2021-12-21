@@ -1,8 +1,19 @@
 # Table of contents
 
 -   [SyncTree?](README.md)
+-   [How to use SyncTree](how-to-use/intro.md)
+    -   [Play ground](how-to-use/playground.md)
+    -   [Block coding](how-to-use/block-coding.md)
+    -   [Build, Test, and Execution](how-to-use/excution.md)
+    -   [Studio](how-to-use/studio.md)
+    -   [Registration](how-to-use/register.md)
+    -   [API Creation](how-to-use/api-create.md)
+    -   [API Editing](how-to-use/api-edit.md)
+    -   [API Testing](how-to-use/api-test.md)
+    -   [Push API (Revision per step)](how-to-use/api-push.md)
+    -   [Portal Creation and API Registration](how-to-use/create-portal.md)
+    -   [Register Portal and API Confirmation](how-to-use/confirm-portal.md)
 -   [SyncTree References](synctree-2.md)
--   [How to use SyncTree](synctree-3.md)
 -   [Hello! SyncTree](synctree-4.md)
 
 ## SyncTree NBlock <a id="synctree"></a>
@@ -67,7 +78,7 @@
                 -   [Generate](v3.1.0/authorization/jwt/payload/generate.md)
                 -   [Verify](v3.1.0/authorization/jwt/payload/verify.md)
         -   [OAuth 2.0](v3.1.0/authorization/oauth/2.0.md)
-        -   [SAML 2.0](v3.1.0/authorization/saml/saml.md)  - [Response](v3.1.0/authorization/saml/2.0/response.md) - [Credential](v3.1.0/authorization/saml/2.0/credential.md)
+        -   [SAML 2.0](v3.1.0/authorization/saml/saml.md) - [Response](v3.1.0/authorization/saml/2.0/response.md) - [Credential](v3.1.0/authorization/saml/2.0/credential.md)
         -   [SimpleKey](v3.1.0/authorization/simplekey.md)
     -   [AccessControl](v3.1.0/accesscontrol/accesscontrol.md)
         -   [RateLimit](v3.1.0/accesscontrol/ratelimit.md)

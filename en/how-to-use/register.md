@@ -1,17 +1,17 @@
-## SyncTree 사용법 따라하기!
+## Follow how to use SyncTree!
 
-#### 가입하기
+#### Registration
 
 #### STEP 2-1
 
-Sign up for free를 누른 뒤, 가입 양식 작성하고 가입합니다.
+Join us with the 'Sign up for free' button.
 
 ![](../../img/howtouse/step2-1.png)
 
 #### STEP 2-2
 
-1. 이메일에서 어카운트 넘버를 확인한 뒤,
-2. 어카운트 넘버/ID/패스워드를 입력 후 로그인합니다.
+1. Find the 'Account no.' on your email.
+2. Log in with your Account no., ID, and Password
 
 <div class='img-container'>
     <span style='top: -36px;left: 0px;'>1</span>
