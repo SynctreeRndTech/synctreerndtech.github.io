@@ -1,4 +1,4 @@
-#### STEP 2-3
+#### STEP 3
 
 1. Create App 누르고 앱을 하나 생성합니다.
 2. 이후, 앱 정보를 넣은 후 Create 버튼을 눌러주고,
@@ -13,7 +13,7 @@
     <img src='../../img/howtouse/step2-3-3.png' style='margin-top:60px'/>
 </div>
 
-#### STEP 2-4
+#### STEP 4
 
 1. Add BizUnIt 누르고 비즈유닛 하나 생성한 뒤
 2. Add BizUnit과 Proxy Setting 양식을 작성합니다.
@@ -25,7 +25,7 @@
     <img src='../../img/howtouse/step2-4-2.png' class='abs' style='right: -61px;top: 113px;'/>
 </div>
 
-#### STEP 2-5
+#### STEP 5
 
 1. App 내에서 우측 끝의 화살표 버튼을 누릅니다.
 2. 이후, Revision: Dev 박스의 우측 하단 화살표 버튼을 누릅니다.

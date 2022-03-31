@@ -1,18 +1,18 @@
 {
-    "plugins": [
-        "diy",
-        "collapsible-menu",
-        "toggle-chapters",
-        "insert-logo",
-        "custom-favicon",
-        "-sharing",
-        "toolbar"
-    ],
-    "pluginsConfig": {
-        "insert-logo": {
-            "url": "/logo/LOGO_Synctree_GNB_M.svg",
-            "style": "background: none; max-height: 32px; min-height: 32px"
-        },
-        "favicon": "/logo/favicon_sth_16.png"
-    }
+  "plugins": [
+    "diy",
+    "collapsible-menu",
+    "toggle-chapters",
+    "insert-logo",
+    "custom-favicon",
+    "-sharing",
+    "toolbar"
+  ],
+  "pluginsConfig": {
+    "insert-logo": {
+      "url": "/logo/LOGO_Synctree_GNB_M.svg",
+      "style": "background: none; max-height: 32px; min-height: 32px"
+    },
+    "favicon": "/logo/favicon_sth_16.png"
+  }
 }

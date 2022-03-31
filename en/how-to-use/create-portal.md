@@ -1,6 +1,6 @@
 ## Portal Creation and API Registration
 
-#### STEP 2-12
+#### STEP 12
 
 1. Click the 'Create API' button on Manage API.
 2. Click the 'Create' button after fill in the 'API Details'.
@@ -16,7 +16,7 @@
     <img src='../../img/howtouse/step2-13-3.png' class='abs' style='bottom:0; left:120px;' />
 </div>
 
-#### STEP 2-13
+#### STEP 13
 
 1. Move to Access Portal and click 'Portal link' to move to Portal.
 

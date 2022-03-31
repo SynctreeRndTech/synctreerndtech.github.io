@@ -1,6 +1,6 @@
 ## API Editing
 
-#### STEP 2-6
+#### STEP 6
 
 ##### 1. Block coding
 
@@ -19,7 +19,7 @@ Type in 'input' to each variable value of the string from the 'Create' block and
     <img src='../../img/howtouse/step2-6-3.png' style='right: -61px;top: 113px;'/>
 </div>
 
-#### STEP 2-7
+#### STEP 7
 
 1. Remove the 'string' attached to the value from the second 'Document Pair' of 'Response Context' below.
 2. in 'Variable', bring the 'Get string' and attach it. And type in 'result' on the string.

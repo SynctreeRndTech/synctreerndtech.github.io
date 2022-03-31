@@ -1,6 +1,6 @@
 ## Push API (Revision per step)
 
-#### STEP 2-9
+#### STEP 9
 
 1. Back to your BizUnit(Orchestra > Apps) again and Click 'Change Revision Status' to change your status to 'ACTIVE'.
 2. Fill in the 'Revision Name' and 'Comment' after clicking 'Push to Stage' button on the 'Push/Copy Revision'.
@@ -12,7 +12,7 @@
     <img src='../../img/howtouse/step2-10-2.png' />
 </div>
 
-#### STEP 2-10
+#### STEP 10
 
 1. Click the new box created on the Stage.
 2. Click SAVE > Build Revision >Test button, and click the 'Run' button in the new window. And click the 'ACTIVE' box on the top of the left and click the 'Push' button on the top of the right.
@@ -26,7 +26,7 @@
     <img src='../../img/howtouse/step2-11-3.png' />
 </div>
 
-#### STEP 2-11
+#### STEP 11
 
 1. Click the 'Production box'.
 2. Click SAVE > Build Revision > Test button, and click the 'Run' button in the new window.

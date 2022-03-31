@@ -2,13 +2,13 @@
 
 #### Registration
 
-#### STEP 2-1
+#### STEP 1
 
 Join us with the 'Sign up for free' button.
 
 ![](../../img/howtouse/step2-1.png)
 
-#### STEP 2-2
+#### STEP 2
 
 1. Find the 'Account no.' on your email.
 2. Log in with your Account no., ID, and Password
