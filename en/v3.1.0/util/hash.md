@@ -2,7 +2,7 @@
 
 ### ● Hash
 
-        Used to convert input data into XML format
+        Used to convert input data into Hash format
 
 ![](../../../img/assets/image%20%2854%29.png)
 
